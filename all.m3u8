@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0,Первый(HD)
+#EXTINF:0,ПЕРВЫЙ HD
 #EXTGRP:Россия
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,Первый Европа
+#EXTINF:0,ПЕРВЫЙ ЕВРОПА
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:0,НТВ
@@ -20,31 +20,31 @@ http://cdn2.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:0,НТВ +7
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:0,Россия 1 HD
+#EXTINF:0,РОССИЯ HD
 #EXTGRP:Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0,Россия+2(HD)
+#EXTINF:0,РОССИЯ +2(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:0,Россия+4(HD)
+#EXTINF:0,РОССИЯ +4(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:0,Россия+6(HD)
+#EXTINF:0,РОССИЯ +6(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:0,Россия+7(HD)
+#EXTINF:0,РОССИЯ +7(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:0,Россия+8(HD)
+#EXTINF:0,РОССИЯ +8(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:0,Россия+9(HD)
+#EXTINF:0,РОССИЯ +9(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:0,Ртр Планета
+#EXTINF:0,РТР ПЛАНЕТА
 #EXTGRP:Россия
 http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:0,ТВ Центр
+#EXTINF:0,ТВ ЦЕНТР
 #EXTGRP:Россия
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:0,Домашний Интернешл
@@ -53,15 +53,15 @@ http://178.124.152.238:8088/dom
 #EXTINF:0,Домашний Интернешл Резерв
 #EXTGRP:Россия
 http://213.91.178.133:8000/play/a0b5
-#EXTINF:0,Перец Int
+#EXTINF:0,ПЕРЕЦ Int
 #EXTGRP:Россия
 http://45.143.108.110:2200/perec
 #EXTINF:0,Пятый канал
 #EXTGRP:Россия
 http://178.217.72.66:8080/5_Kanal/index.m3u8
-#EXTINF:0,ТВ3
+#EXTINF:0,ТВ3 HD
 #EXTGRP:Россия
-http://92.242.110.52:9835/udp/238.1.11.45:1234
+http://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/6XM-amfUyZTjt4DDyFotQw/1750162770/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:0,ТВ3 резерв
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
@@ -83,10 +83,10 @@ http://85.187.13.40:18000/tntint
 #EXTINF:0,ТНТ 4 HD
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:0,Че
+#EXTINF:0,ЧЕ
 #EXTGRP:Россия
 http://178.212.71.253:8000/play/139/index.m3u8
-#EXTINF:0,Перец
+#EXTINF:0,ПЕРЕЦ
 #EXTGRP:Россия
 http://213.91.178.133:8000/play/a0ay
 #EXTINF:0,СТС HD
@@ -98,37 +98,40 @@ http://213.91.178.133:8000/play/a05u
 #EXTINF:0,СТС Love
 #EXTGRP:Россия
 http://194.143.148.28:8080/CTC_LOVE/index.m3u8
-#EXTINF:0,Рен ТВ
+#EXTINF:0,РЕН ТВ
 #EXTGRP:Россия
 http://178.217.72.66:8080/REN_TV/index.m3u8
-#EXTINF:0,Рен Int
+#EXTINF:0,РЕНТ ТВ ИНТ
 #EXTGRP:Россия
 https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-#EXTINF:0,Звезда HD
+#EXTINF:0,ЗВЕЗДА HD
 #EXTGRP:Россия
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Звезда
+#EXTINF:0,ЗВЕЗДА
 #EXTGRP:Россия
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:0,Звезда +4
+#EXTINF:0,ЗВЕЗДА +4
 #EXTGRP:Россия
 http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8
-#EXTINF:0,Суббота
+#EXTINF:0,ЗВЕЗДА ПЛЮС HD
+#EXTGRP:Россия
+http://5.3.176.223:81/udp/235.10.10.141:1234
+#EXTINF:0,СУББОТА
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:0,Москва 24
+#EXTINF:0,МОСКВА 24
 #EXTGRP:Россия
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:0,Мир
+#EXTINF:0,МИР
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,Мир+2
+#EXTINF:0,МИР +2
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:0,Мир+4
+#EXTINF:0,МИР +4
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0,Мир+7
+#EXTINF:0,МИР +7
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 
@@ -138,22 +141,25 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:0,РБК HD
 #EXTGRP:Новости
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:0,Мир 24
+#EXTINF:0,МИР 24
 #EXTGRP:Новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0,Россия 24
+#EXTINF:0,РОССИЯ 24
 #EXTGRP:Новости
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Соловьев Live HD
 #EXTGRP:Новости
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,Дождь HD
+#EXTINF:0,ДОЖДЬ HD
 #EXTGRP:Новости
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0,Известия
+#EXTINF:0,НАСТОЯЩЕЕ ВРЕМЯ HD
+#EXTGRP:Новости
+http://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:0,ИЗВЕСТИЯ
 #EXTGRP:Новости
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:0,360 Новости
+#EXTINF:0,360 НОВОСТИ
 #EXTGRP:Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
@@ -164,31 +170,43 @@ http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:0,Viju TV1000 Ru Kino
 #EXTGRP:РуФильмы
 http://213.91.178.133:8000/play/a0bx
-#EXTINF:0,Дом Кино Premium
+#EXTINF:0,Viju Novella HD
+#EXTGRP:РуФильмы
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9Qczw2zRJLTahDPtRz9Cjw&e=1750042751&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0,ДОМ КИНО PREMIUM
 #EXTGRP:РуФильмы
 http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:0,Победа
+#EXTINF:0,ПОБЕДА
 #EXTGRP:РуФильмы
 http://178.217.72.66:8080/pobeda/index.m3u8
-#EXTINF:0,Русский иллюзион
+#EXTINF:0,РУССКИЙ ИЛЛЮЗИОН
 #EXTGRP:РуФильмы
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:0,Нтв Сериал
+#EXTINF:0,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTGRP:РуФильмы
+http://92.242.110.52:9835/udp/238.1.7.29:1234
+#EXTINF:0,РУССКИЙ ДЕТЕКТИВ
+#EXTGRP:РуФильмы
+http://195.245.99.242/Detectiv/playlist.m3u8
+#EXTINF:0,РУССКИЙ РОМАН
+#EXTGRP:РуФильмы
+http://95.156.76.230:33001/udp/230.4.34.69:1234
+#EXTINF:0,НТВ СЕРИАЛ
 #EXTGRP:РуФильмы
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:0,Нтв Хит
+#EXTINF:0,НТВ ХИТ
 #EXTGRP:РуФильмы
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:0,Болт Россия HD
+#EXTINF:0,БОЛТ РОССИЯ HD
 #EXTGRP:РуФильмы
 http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
-#EXTINF:0,Наше новое HD
+#EXTINF:0,НАШЕ НОВОЕ HD
 #EXTGRP:РуФильмы
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
 #EXTINF:0,ТВ1000 Мосфильм Золотая коллекция
 #EXTGRP:РуФильмы
-http://178.212.71.253:8000/play/124/index.m3u8
-#EXTINF:0,Мир Сериала
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:0,МИР СЕРИАЛА
 #EXTGRP:РуФильмы
 http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
 
@@ -214,7 +232,7 @@ http://45.143.108.110:2200/tv1000
 #EXTINF:0,Viju TV 1000 Action
 #EXTGRP:Фильмы
 http://178.217.72.66:8080/TV_1000_Action/index.m3u8
-#EXTINF:0,Bollywood
+#EXTINF:0,BOLLYWOO
 #EXTGRP:Фильмы
 http://s1.merlive.am/Bollywood/index.m3u8
 #EXTINF:0,КОШМАР 
@@ -235,7 +253,21 @@ http://s1.merlive.am/kinosvidanie/index.m3u8
 #EXTINF:0,ЛЮБИМОЕ КИНО
 #EXTGRP:Фильмы
 http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
-
+#EXTINF:0,КИНОМИКС
+#EXTGRP:Фильмы
+http://92.242.110.52:9835/udp/238.1.6.10:1234
+#EXTINF:0,КИНОМИКС HD
+#EXTGRP:Фильмы
+http://s1.merlive.am/kinomix/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:Фильмы
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+#EXTINF:0,КОМЕДИЯ
+#EXTGRP:Фильмы
+http://178.217.72.66:8080/Komediya/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:Фильмы
+http://92.242.110.52:9835/udp/238.1.6.20:1234
 
 #EXTINF:0,AZTV
 #EXTGRP:Азербайджан
@@ -243,16 +275,16 @@ http://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:0,AZTV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
-#EXTINF:0,Medeniyyet TV
+#EXTINF:0,MEDENIYYET TV
 #EXTGRP:Азербайджан
 https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:0,BakuTV
+#EXTINF:0,BAKU TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:0,SpaceTV
+#EXTINF:0,SPACE TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:0,Ictimai TV
+#EXTINF:0,ICTIMAI TV
 #EXTGRP:Азербайджан
 https://live.itv.az/itv.m3u8
 #EXTINF:0,ARB
@@ -264,22 +296,22 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 #EXTINF:0,ARB Gunes
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:0,Azad
+#EXTINF:0,AZAD TV
 #EXTGRP:Азербайджан
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:0,Azad
+#EXTINF:0,AZAD TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
-#EXTINF:0,Xezer TV
+#EXTINF:0,XEZER TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:0,CBC
 #EXTGRP:Азербайджан
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:0,CBC Sport 
+#EXTINF:0,CBC SPORT
 #EXTGRP:Азербайджан
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:0,Idman TV
+#EXTINF:0,IDMAN TV
 #EXTGRP:Азербайджан
 http://str.yodacdn.net/idman/index.m3u8
 #EXTINF:0,APA TV
@@ -288,26 +320,26 @@ http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Азербайджан
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
-#EXTINF:0,AzStar
+#EXTINF:0,AZSTAR
 #EXTGRP:Азербайджан
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:0,Dunya TV
+#EXTINF:0,DUNYA
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:0,Kanal S
+#EXTINF:0,KANAL S
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-#EXTINF:0,Viptv
+#EXTINF:0,VIP TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:0,Real TV
+#EXTINF:0,REAL TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/real-tv.m3u8
 
-#EXTINF:0,Первый музыкальный RU
+#EXTINF:0,ПЕРВЙ МУЗЫКАЛЬНЫЙ RU
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
-#EXTINF:0,ТНТ Music HD
+#EXTINF:0,ТНТ MUSIC HD
 #EXTGRP:Музыка
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0,РУ ТВ
@@ -316,23 +348,26 @@ http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0,РУ ТВ HD
 #EXTGRP:Музыка
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:0,Шансон ТВ
+#EXTINF:0,ШАНСОН ТВ
 #EXTGRP:Музыка
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 
-#EXTINF:0,Viasat Nature
+#EXTINF:0,VIASAT NATURE
 #EXTGRP:Познавательный
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
-#EXTINF:0,Viju Explore
+#EXTINF:0,VIJU EXPLORE
 #EXTGRP:Познавательный
 http://45.143.108.110:2200/viasatexp
-#EXTINF:0,Nat geo wild
+#EXTINF:0,VIJU NATURE
+#EXTGRP:Познавательный
+http://92.242.110.52:9835/udp/238.1.8.27:1234
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
 #EXTGRP:Познавательный
 http://195.245.99.242/NatGeoWild/playlist.m3u8
-#EXTINF:0,National Geographic
+#EXTINF:0,NATIONAL GEOGRAPHIC
 #EXTGRP:Познавательный
 http://195.245.99.242/National_Geographic/playlist.m3u8
-#EXTINF:0,National Geographic HD
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
 #EXTGRP:Познавательный
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:0,DISCOVERY
@@ -341,6 +376,18 @@ http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:0,ID
 #EXTGRP:Познавательный
 http://195.245.99.242/ID/playlist.m3u8
+#EXTINF:0,ИСТОРИЯ
+#EXTGRP:Познавательный
+http://195.245.99.242/Istoriya/playlist.m3u8
+#EXTINF:0,НАУКА 2.0
+#EXTGRP:Познавательный
+http://178.134.1.158:8081/nauka/index.m3u8
+#EXTINF:0,НОСТАЛЬГИЯ
+#EXTGRP:Познавательный
+http://s1.merlive.am/Nostalgia/index.m3u8
+#EXTINF:0,СОВЕРШЕННО СЕКРЕТНО
+#EXTGRP:Познавательный
+http://178.124.152.238:8088/sovsec
 
 
 #EXTINF:0,МАТЧ ТВ
@@ -364,96 +411,132 @@ http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:0,МАТЧ ФУТБОЛ 3 HD
 #EXTGRP:Спортивные
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-
-#EXTINF:0,SPORT ITALIA
+#EXTINF:0,МАТЧ ФУТБОЛ 1
+#EXTGRP:Спортивные
+http://s1.merlive.am/matchfutbol1/index.m3u8
+#EXTINF:0,МАТЧ ФУТБОЛ 2
+#EXTGRP:Спортивные
+http://92.242.110.52:9835/udp/238.1.1.15:1234
+#EXTINF:0,МАТЧ ФУТБОЛ 3
+#EXTGRP:Спортивные
+http://timeshift.arpinet.am/110/mpegts
+#EXTINF:0,VIJU+ SPORT
+#EXTGRP:Спортивные
+http://178.134.1.158:8081/viasatsport/index.m3u8
+#EXTINF:0,БОКС ТВ
+#EXTGRP:Спортивные
+http://5.3.176.223:81/udp/235.10.10.233:1234
+#EXTINF:0,РУССКИЙ ЭКСТРИМ
+#EXTGRP:Спортивные
+http://195.26.83.96:7029/play/a008
+#EXTINF:0,ABU DHABI SPORTS 1 HD [AE]
+#EXTGRP:Спортивные
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:0,TRT SPOR [TR]
+#EXTGRP:Спортивные
+http://185.234.111.229:8000/play/a00e
+#EXTINF:0,SPORT ITALIA [ITA]
 #EXTGRP:Спортивные
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:0,SPORT ITALIA LIVE
+#EXTINF:0,SPORT ITALIA LIVE [ITA]
 #EXTGRP:Спортивные
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:0,INTER TV [ITA]
+#EXTGRP:Спортивные
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:0,NBA HD [USA]
+#EXTGRP:Спортивные
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
+#EXTINF:0,SKY SPORT FOOTBALL [UK] [USA]
+#EXTGRP:Спортивные
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
+#EXTINF:0,SKY TENNIS [UK] [USA]
+#EXTGRP:Спортивные
+https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
 
-#EXTINF:0,Dream Turk
+
+#EXTINF:0,DREAM TURK
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a01v
-#EXTINF:0,EuroStar
-#EXTGRP:Turk
-http://185.234.111.229:8000/play/a01h
-#EXTINF:0,Number One
+#EXTINF:0,NUMBER ONE
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a068
-#EXTINF:0,Atv 
+#EXTINF:0,ATV
 #EXTGRP:Turk
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:0,Atv Avropa
+#EXTINF:0,TV AVROPA
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a018
-#EXTINF:0,Beyaz TV
+#EXTINF:0,BEYAZ TV
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a05h
-#EXTINF:0,Habertürk TV 
+#EXTINF:0,HABERTURK
 #EXTGRP:Turk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:0,Kanal 7 HD
+#EXTINF:0,KANAL 7 HD
 #EXTGRP:Turk
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:0,Kanal 7 Avropa
+#EXTINF:0,KANAL 7 AVROPA
 #EXTGRP:Turk
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:0,Power TV HD
+#EXTINF:0,POWER TV HD
 #EXTGRP:Turk
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:0,POWER TÜRK
 #EXTGRP:Turk
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:0,Star TV
+#EXTINF:0,STAR TV
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:0,EURO STAR
+#EXTINF:0,EUROSTAR
 #EXTGRP:Turk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
-#EXTINF:0,Star TV
+#EXTINF:0,STAR TV
 #EXTGRP:Turk
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+#EXTINF:0,EUROSTAR
+#EXTGRP:Turk
+http://185.234.111.229:8000/play/a01h
 #EXTINF:0,TRT 1
 #EXTGRP:Turk
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:0,TRT TURK
-#EXTGRP:Turk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT Spor
-#EXTGRP:Turk
-http://185.234.111.229:8000/play/a00e
-#EXTINF:0,TRT Haber
-#EXTGRP:Turk
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT Muzik
-#EXTGRP:Turk
-http://185.234.111.229:8000/play/a00i
 #EXTINF:0,TRT 2
 #EXTGRP:Turk
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT TURK
+#EXTGRP:Turk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT SPOR
+#EXTGRP:Turk
+http://185.234.111.229:8000/play/a00e
+#EXTINF:0,TRT HABER
+#EXTGRP:Turk
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT MUZIK
+#EXTGRP:Turk
+http://185.234.111.229:8000/play/a00i
 #EXTINF:0,TRT BELGESEL
 #EXTGRP:Turk
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0,Cnn Turk
+#EXTINF:0,CNN TURK
 #EXTGRP:Turk
 https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Turk
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:0,EURO D
-#EXTGRP:Turk
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0,Show
+#EXTINF:0,EURO D
+#EXTGRP:Turk
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0,SHOW
 #EXTGRP:Turk
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0,Show
+#EXTINF:0,SHOW
 #EXTGRP:Turk
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0,SHOW MAX
@@ -487,28 +570,28 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTGRP:Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:0,НТВ Беларусь HD
+#EXTINF:0,НТВ БЕЛАРУСЬ HD
 #EXTGRP:Беларусь
 http://87.252.254.168:4022/udp/233.81.116.205:1234
-#EXTINF:0,Беларусь 1 
+#EXTINF:0,БЕЛАРУСЬ 1 
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
-#EXTINF:0,Беларусь 1 HD
+#EXTINF:0,БЕЛАРУСЬ 1 HD
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,Беларусь 2 
+#EXTINF:0,БЕЛАРУСЬ 2 
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b1010000_sleng.m3u8
-#EXTINF:0,Беларусь 2 HD
+#EXTINF:0,БЕЛАРУСЬ 2 HD
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,Беларусь 3 
+#EXTINF:0,БЕЛАРУСЬ 3 
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b1010000_sleng.m3u8
-#EXTINF:0,Беларусь 5
+#EXTINF:0,БЕЛАРУСЬ 5
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b1010000_sleng.m3u8
-#EXTINF:0,Беларусь 24 HD
+#EXTINF:0,БЕЛАРУСЬ 24 HD
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:0,Первый информационный HD (Беларусь)
@@ -517,7 +600,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 #EXTINF:0,СТВ HD
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,БелРос
+#EXTINF:0,БЕЛРОС
 #EXTGRP:Беларусь
 http://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 

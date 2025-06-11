@@ -470,9 +470,6 @@ http://185.234.111.229:8000/play/a018
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a05h
-#EXTINF:0,HABERTURK
-#EXTGRP:Turk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:0,KANAL 7 HD
 #EXTGRP:Turk
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
@@ -482,12 +479,6 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:0,POWER TV HD
-#EXTGRP:Turk
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:0,POWER TÜRK
-#EXTGRP:Turk
-http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:0,STAR TV
 #EXTGRP:Turk
 https://dogus-live.daioncdn.net/startv/startv.m3u8
@@ -512,18 +503,12 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT SPOR
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a00e
-#EXTINF:0,TRT HABER
-#EXTGRP:Turk
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT MUZIK
 #EXTGRP:Turk
 http://185.234.111.229:8000/play/a00i
 #EXTINF:0,TRT BELGESEL
 #EXTGRP:Turk
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0,CNN TURK
-#EXTGRP:Turk
-https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Turk
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -548,7 +533,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/sht
 #EXTINF:0,TV8
 #EXTGRP:Turk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-#EXTINF:0,Now
+#EXTINF:0,NOW
 #EXTGRP:Turk
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0,GALATASARAY TV
@@ -563,12 +548,117 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 #EXTINF:0,A SPOR
 #EXTGRP:Turk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:0,NUMBER ONE TÜRK
+#EXTINF:0,BIS HABER
 #EXTGRP:Turk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+https://yotubesakuapi.global.ssl.fastly.net/playlist/71.m3u8
+#EXTINF:0,SPORTS TV
+#EXTGRP:Turk
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:0,CNN TURK
+#EXTGRP:Turk
+https://b.fulltvizle.com/cnn/playlist.m3u8
+#EXTINF:0,TRT HABER
+#EXTGRP:Turk
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,HABERTURK
+#EXTGRP:Turk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:0,HABER GLOBAL
+#EXTGRP:Turk
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:0,BLOOMBERG HT
+#EXTGRP:Turk
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:0,TGRT HABER
+#EXTGRP:Turk
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:0,FLASH HABER
+#EXTGRP:Turk
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+#EXTINF:0,FİNANS TÜRK
+#EXTGRP:Turk
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:0,SÖZCÜ TV
+#EXTGRP:Turk
+http://185.234.111.229:8000/play/a00y
+#EXTINF:0,TİVİ 6
+#EXTGRP:Turk
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:0,CİNE 1
+#EXTGRP:Turk
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:0,DMAX
+#EXTGRP:Turk
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Turk
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:0,KRAL POP
+#EXTGRP:Turk
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:0,POWER TV
+#EXTGRP:Turk
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:0,POWER TÜRK
+#EXTGRP:Turk
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0,POWER TÜRK TAPTAZE
+#EXTGRP:Turk
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:0,POWER LOVE
+#EXTGRP:Turk
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:0,POWER TÜRK SLOW
+#EXTGRP:Turk
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0,POWER TÜRK AKUSTİK
+#EXTGRP:Turk
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:0,NUMBER ONE
 #EXTGRP:Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:0,NUMBER ONE TÜRK
+#EXTGRP:Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:0,NUMBER ONE TÜRK ASK
+#EXTGRP:Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:0,NUMBER ONE TÜRK DAMAR
+#EXTGRP:Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:0,NUMBER ONE TÜRK DANCE
+#EXTGRP:Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:0,360
+#EXTGRP:Turk
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0,TV4
+#EXTGRP:Turk
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0,WOMAN KADIN TV
+#EXTGRP:Turk
+https://embedlp.b-cdn.net/womantv.m3u8
+#EXTINF:0,FASHION ONE
+#EXTGRP:Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:0,CINE5 TV
+#EXTGRP:Turk
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0,TRT ÇOCUK
+#EXTGRP:Turk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:0,MİNİKA ÇOCUK
+#EXTGRP:Turk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+#EXTINF:0,MİNİKA GO
+#EXTGRP:Turk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:0,CARTOON NETWORK TR
+#EXTGRP:Turk
+https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+
+
+
 
 #EXTINF:0,НТВ БЕЛАРУСЬ HD
 #EXTGRP:Беларусь

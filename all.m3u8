@@ -157,6 +157,16 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTGRP:Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
+
+#EXTINF:0,НАШЕ НОВОЕ КИНО
+#EXTGRP:РуФильмы
+http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
+#EXTINF:0,Viju TV1000 Ru Kino
+#EXTGRP:РуФильмы
+http://213.91.178.133:8000/play/a0bx
+#EXTINF:0,Дом Кино Premium
+#EXTGRP:РуФильмы
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:0,Победа
 #EXTGRP:РуФильмы
 http://178.217.72.66:8080/pobeda/index.m3u8
@@ -181,6 +191,50 @@ http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:0,Мир Сериала
 #EXTGRP:РуФильмы
 http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
+
+
+#EXTINF:0,AMEDIA PREMIUM HD
+#EXTGRP:Фильмы
+http://s1.merlive.am/amediapremium/index.m3u8
+#EXTINF:0,AMEDIA HIT HD
+#EXTGRP:Фильмы
+http://178.217.72.66:8080/Amedia_Hit/index.m3u8
+#EXTINF:0,ПРЕМИАЛЬНОЕ HD
+#EXTGRP:Фильмы
+http://141.95.55.143/CH545/index.m3u8
+#EXTINF:0,КИНОТЕКО
+#EXTGRP:Фильмы
+http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
+#EXTINF:0,CINEMA
+#EXTGRP:Фильмы
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:0,Viju TV 1000
+#EXTGRP:Фильмы
+http://45.143.108.110:2200/tv1000
+#EXTINF:0,Viju TV 1000 Action
+#EXTGRP:Фильмы
+http://178.217.72.66:8080/TV_1000_Action/index.m3u8
+#EXTINF:0,Bollywood
+#EXTGRP:Фильмы
+http://s1.merlive.am/Bollywood/index.m3u8
+#EXTINF:0,КОШМАР 
+#EXTGRP:Фильмы
+http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
+#EXTINF:0,КИНО ТВ
+#EXTGRP:Фильмы
+http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:Фильмы
+http://178.217.72.66:8080/Kinosemya/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:Фильмы
+http://s1.merlive.am/kinosvidanie/index.m3u8
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:Фильмы
+http://s1.merlive.am/kinosvidanie/index.m3u8
+#EXTINF:0,ЛЮБИМОЕ КИНО
+#EXTGRP:Фильмы
+http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
 
 
 #EXTINF:0,AZTV
@@ -275,29 +329,45 @@ http://45.143.108.110:2200/viasatexp
 #EXTINF:0,Nat geo wild
 #EXTGRP:Познавательный
 http://195.245.99.242/NatGeoWild/playlist.m3u8
-#EXTINF:0,Nat geo
+#EXTINF:0,National Geographic
 #EXTGRP:Познавательный
 http://195.245.99.242/National_Geographic/playlist.m3u8
-#EXTINF:0,Discovery
+#EXTINF:0,National Geographic HD
+#EXTGRP:Познавательный
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:0,DISCOVERY
 #EXTGRP:Познавательный
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:0,ID
 #EXTGRP:Познавательный
 http://195.245.99.242/ID/playlist.m3u8
-#EXTINF:0,ID
-#EXTGRP:Моя планета
+#EXTINF:0,МОЯ ПЛАНЕТА
+#EXTGRP:Познавательный
 http://194.143.148.28:8080/Moya_Planeta/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0,Матч ТВ
+#EXTINF:0,МАТЧ ТВ
 #EXTGRP:Спортивные
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:0,Матч Арена
+#EXTINF:0,МАТЧ АРЕНА
 #EXTGRP:Спортивные
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:0,Матч Боец
+#EXTINF:0,МАТЧ БОЕЦ
 #EXTGRP:Спортивные
 http://87.120.142.11:18000/Match!
+#EXTINF:0,МАТЧ ИГРА HD
+#EXTGRP:Спортивные
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+#EXTINF:0,МАТЧ ФУТБОЛ 1 HD
+#EXTGRP:Спортивные
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:0,МАТЧ ФУТБОЛ 2 HD
+#EXTGRP:Спортивные
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:0,МАТЧ ФУТБОЛ 3 HD
+#EXTGRP:Спортивные
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+
 #EXTINF:0,SPORT ITALIA
 #EXTGRP:Спортивные
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8

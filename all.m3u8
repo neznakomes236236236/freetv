@@ -1,0 +1,253 @@
+#EXTM3U
+#EXTINF:0,Первый(HD)
+#EXTGRP:Россия
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,Первый Европа
+#EXTGRP:Россия
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:0,НТВ HD
+#EXTGRP:Россия
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Россия
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0,Ртр Планета
+#EXTGRP:Россия
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:0,ТВ Центр
+#EXTGRP:Россия
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,Домашний Интернешл
+#EXTGRP:Россия
+http://178.124.152.238:8088/dom
+#EXTINF:0,Домашний Интернешл Резерв
+#EXTGRP:Россия
+http://213.91.178.133:8000/play/a0b5
+#EXTINF:0,Перец Int
+#EXTGRP:Россия
+http://45.143.108.110:2200/perec
+#EXTINF:0,Пятый канал
+#EXTGRP:Россия
+http://178.217.72.66:8080/5_Kanal/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Россия
+http://92.242.110.52:9835/udp/238.1.11.45:1234
+#EXTINF:0,ТВ3 резерв
+#EXTGRP:Россия
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:0,Пятница Инт
+#EXTGRP:Россия
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Россия
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:0,ТНТ+2
+#EXTGRP:Россия
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:0,ТНТ Int
+#EXTGRP:Россия
+http://85.187.13.40:18000/tntint
+#EXTINF:0,ТНТ 4 HD
+#EXTGRP:Россия
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:0,Че
+#EXTGRP:Россия
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:0,Перец
+#EXTGRP:Россия
+http://213.91.178.133:8000/play/a0ay
+#EXTINF:0,СТС HD
+#EXTGRP:Россия
+http://178.217.72.66:8080/STS/index.m3u8
+#EXTINF:0,СТС Int
+#EXTGRP:Россия
+http://213.91.178.133:8000/play/a05u
+#EXTINF:0,СТС Love
+#EXTGRP:Россия
+http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+#EXTINF:0,Рен ТВ
+#EXTGRP:Россия
+http://178.217.72.66:8080/REN_TV/index.m3u8
+#EXTINF:0,Рен Int
+#EXTGRP:Россия
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:0,Звезда HD
+#EXTGRP:Россия
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,Суббота
+#EXTGRP:Россия
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:0,Москва 24
+#EXTGRP:Россия
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0,Мир
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,Мир+2
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:0,Мир+4
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0,Мир+7
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:0,Мир 24
+#EXTGRP:Россия
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Россия
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:0,Соловьев Live HD
+#EXTGRP:Новости
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:0,Дождь HD
+#EXTGRP:Новости
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:0,Известия
+#EXTGRP:Новости
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:0,360 Новости
+#EXTGRP:Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+#EXTINF:0,Победа
+#EXTGRP:РуФильмы
+http://178.217.72.66:8080/pobeda/index.m3u8
+#EXTINF:0,Русский иллюзион
+#EXTGRP:РуФильмы
+http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+#EXTINF:0,Нтв Сериал
+#EXTGRP:РуФильмы
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:0,Нтв Хит
+#EXTGRP:РуФильмы
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:0,ТВ1000 Русское кино HD
+#EXTGRP:РуФильмы
+http://217.113.25.29:8001/play/a01k/index.m3u8
+#EXTINF:0,Болт Россия HD
+#EXTGRP:РуФильмы
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
+#EXTINF:0,Наше новое HD
+#EXTGRP:РуФильмы
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
+#EXTINF:0,Родное кино
+#EXTGRP:РуФильмы
+https://mhd128.iptv2022.com/p/07JCl1_7PAud6NiNlhlnWg,1749675609/streaming/rodnoe/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:0,ТВ1000 Мосфильм Золотая коллекция
+#EXTGRP:РуФильмы
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:0,Мир Сериала
+#EXTGRP:РуФильмы
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
+#EXTINF:0,Новый русский
+#EXTGRP:РуФильмы
+http://hls.goodgame.ru/hls/207299.m3u8
+
+
+#EXTINF:0,AZTV
+#EXTGRP:Азербайджан
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:0,Medeniyyet TV
+#EXTGRP:Азербайджан
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:0,BakuTV
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:0,SpaceTv
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:0,Ictimai
+#EXTGRP:Азербайджан
+https://live.itv.az/itv.m3u8
+#EXTINF:0,ARB
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:0,ARB 24
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:0,ARB Gunes
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:0,Azad
+#EXTGRP:Азербайджан
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:0,Xezer TV
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0,CBC
+#EXTGRP:Азербайджан
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:0,CBC Sport 
+#EXTGRP:Азербайджан
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:0,APA TV
+#EXTGRP:Азербайджан
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,Naxçıvan TV
+#EXTGRP:Азербайджан
+http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+#EXTINF:0,AzStar
+#EXTGRP:Азербайджан
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:0,Dunya TV
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:0,Kanal S
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:0,Viptv
+#EXTGRP:Азербайджан
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+
+
+
+
+#EXTINF:0,НТВ Беларусь HD
+#EXTGRP:Беларусь
+http://87.252.254.168:4022/udp/233.81.116.205:1234
+#EXTINF:0,Беларусь 1 HD
+#EXTGRP:Беларусь
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+
+
+#EXTINF:0,Авторадио
+#EXTGRP:Радио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:0,Дорожное Радио
+#EXTGRP:Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:0,Наше радио
+#EXTGRP:Радио
+http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:0,Радио DFM
+#EXTGRP:Радио
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:0,Радио Маяк
+#EXTGRP:Радио
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:0,Радио Мир
+#EXTGRP:Радио
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:0,Радио на семи холмах
+#EXTGRP:Радио
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:0,Радио Романтика
+#EXTGRP:Радио
+http://ic7.101.ru:8000/v4_1
+#EXTINF:0,Радио Шансон
+#EXTGRP:Радио
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:0,Радио Ваня
+#EXTGRP:Радио
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:0,Ретро FM
+#EXTGRP:Радио
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:0,Хит FM
+#EXTGRP:Радио
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:0,Юмор FM
+#EXTGRP:Радио
+http://ic7.101.ru:8000/v5_1

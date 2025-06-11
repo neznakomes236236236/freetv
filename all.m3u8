@@ -5,19 +5,19 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,ПЕРВЫЙ ЕВРОПА
 #EXTGRP:Россия
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:0,НТВ
+#EXTINF:1,НТВ
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:0,НТВ HD
+#EXTINF:1,НТВ HD
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:0,НТВ +2
+#EXTINF:1,НТВ +2
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:0,НТВ +4
+#EXTINF:1,НТВ +4
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:0,НТВ +7
+#EXTINF:1,НТВ +7
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:0,РОССИЯ HD

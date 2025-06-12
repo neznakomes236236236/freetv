@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:0,ПЕРВЫЙ HD
 #EXTGRP:Россия
@@ -850,6 +851,7 @@ https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TOURISM
+#EXTGRP:Arab
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN DRAMA
 #EXTGRP:Arab
@@ -1988,7 +1990,7 @@ https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS8507zA9gG2ap/ZX
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX
 
 
-#EXTINF:0,РУССКОЕ РАДИО
+#EXTINF:0 tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО
 #EXTGRP:Russian Radio
 https://rusradio.hostingradio.ru/rusradio128.mp3
 #EXTINF:0,МАРУСЯ ФМ

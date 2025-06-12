@@ -352,40 +352,40 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 
 #EXTINF:0,VIASAT NATURE
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
 #EXTINF:0,VIJU EXPLORE
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://45.143.108.110:2200/viasatexp
 #EXTINF:0,VIJU NATURE
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://92.242.110.52:9835/udp/238.1.8.27:1234
 #EXTINF:0,NATIONAL GEOGRAPHIC WILD
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://195.245.99.242/NatGeoWild/playlist.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC HD
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:0,DISCOVERY
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:0,ID
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:0,ИСТОРИЯ
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://195.245.99.242/Istoriya/playlist.m3u8
 #EXTINF:0,НАУКА 2.0
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://178.134.1.158:8081/nauka/index.m3u8
 #EXTINF:0,НОСТАЛЬГИЯ
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://s1.merlive.am/Nostalgia/index.m3u8
 #EXTINF:0,СОВЕРШЕННО СЕКРЕТНО
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://178.124.152.238:8088/sovsec
 
 
@@ -682,17 +682,18 @@ https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/inde
 #EXTGRP:Arab
 https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
+#EXTGRP:Arab
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 2
 #EXTGRP:Arab
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 2
+#EXTGRP:Arab
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 3
 #EXTGRP:Arab
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 3
-#EXTGRP:Arab
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 1
 #EXTGRP:Arab
@@ -752,10 +753,8 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTGRP:Arab
 https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TV
-#EXTGRP:Arab
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TOURISM
-#EXTGRP:Arab
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN DRAMA
 #EXTGRP:Arab
@@ -805,8 +804,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV 1
 #EXTGRP:Arab
 https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA
-#EXTGRP:Arab
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png" group-title="20. |AR|🇸🇦 THEMATICS-1 عربي",AL JAZEERA
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA
 #EXTGRP:Arab
@@ -833,7 +831,6 @@ https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/
 #EXTGRP:Arab
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
-#EXTGRP:Arab
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIYA BUSINESS
 #EXTGRP:Arab
@@ -854,13 +851,11 @@ https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
 #EXTGRP:Arab
 https://newajm2.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER 2
-#EXTGRP:Arab
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER 24
 #EXTGRP:Arab
 https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CMk8DS1/alqahera.png",AL QAHERA NEWS
-#EXTGRP:Arab
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
 #EXTGRP:Arab
@@ -872,7 +867,6 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
 #EXTGRP:Arab
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png",INEWS IQ
-#EXTGRP:Arab
 https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
 #EXTGRP:Arab
@@ -1025,10 +1019,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 #EXTGRP:Arab
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png",MBC 5
-#EXTGRP:Arab
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA
-#EXTGRP:Arab
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA USA
 #EXTGRP:Arab
@@ -1127,7 +1119,6 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 #EXTGRP:Arab
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" referer="https://rotana.net/",ROTANA COMEDY
-#EXTGRP:Arab
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png",ROTANA PNC DRAMA
 #EXTGRP:Arab
@@ -1331,7 +1322,6 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTGRP:Arab 
 https://new.cache-stream.workers.dev/stream/UCTny7s_VPsTS_TtnWIlJF6w/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
-#EXTGRP:Arab
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
 #EXTGRP:Arab 
@@ -1375,8 +1365,7 @@ https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPBCcKq/payam.jpg",PAYAM TV
 #EXTGRP:Arab
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f2XWR2M/alrabiaa.jpg",AL RABIAA
-#EXTGRP:Arab
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2XWR2M/alrabiaa.jpg" referer="https://player.castr.com/",AL RABIAA
 https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FYdQXH1/aldafrah.png",AL DAFRAH
 #EXTGRP:Arab
@@ -1391,7 +1380,6 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTGRP:Arab
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
-#EXTGRP:Arab
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",WATAR PS
 #EXTGRP:Arab 
@@ -1405,6 +1393,12 @@ https://starmenajo.com/hls/yemenshabab/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
 #EXTGRP:Arab
 https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:0,НТВ БЕЛАРУСЬ HD
@@ -1899,41 +1893,41 @@ https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX
 
 
 #EXTINF:0,Авторадио
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v3_1
 #EXTINF:0,Дорожное Радио
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:0,Наше радио
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://nashe1.hostingradio.ru:80/nashe-256
 #EXTINF:0,Радио DFM
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://dfm.hostingradio.ru/dfm128.mp3
 #EXTINF:0,Радио Маяк
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:0,Радио Мир
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:0,Радио на семи холмах
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:0,Радио Романтика
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v4_1
 #EXTINF:0,Радио Шансон
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:0,Радио Ваня
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 #EXTINF:0,Ретро FM
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:0,Хит FM
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:0,Юмор FM
-#EXTGRP:Радио
+#EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v5_1

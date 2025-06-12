@@ -352,40 +352,40 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 
 #EXTINF:0,VIASAT NATURE
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
 #EXTINF:0,VIJU EXPLORE
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://45.143.108.110:2200/viasatexp
 #EXTINF:0,VIJU NATURE
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://92.242.110.52:9835/udp/238.1.8.27:1234
 #EXTINF:0,NATIONAL GEOGRAPHIC WILD
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://195.245.99.242/NatGeoWild/playlist.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC HD
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:0,DISCOVERY
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:0,ID
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:0,ИСТОРИЯ
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://195.245.99.242/Istoriya/playlist.m3u8
 #EXTINF:0,НАУКА 2.0
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://178.134.1.158:8081/nauka/index.m3u8
 #EXTINF:0,НОСТАЛЬГИЯ
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://s1.merlive.am/Nostalgia/index.m3u8
 #EXTINF:0,СОВЕРШЕННО СЕКРЕТНО
-#EXTGRP:Познавательный
+#EXTGRP:Позновательные
 http://178.124.152.238:8088/sovsec
 
 

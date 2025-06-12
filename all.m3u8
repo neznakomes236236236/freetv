@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:0,ПЕРВЫЙ HD
 #EXTGRP:Россия
@@ -1993,31 +1992,31 @@ https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX
 #EXTINF:0 tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО
 #EXTGRP:Russian Radio
 https://rusradio.hostingradio.ru/rusradio128.mp3
-#EXTINF:0,МАРУСЯ ФМ
+#EXTINF:0 tvg-logo="https://i.ibb.co/chn5MF7v/MARUSYAFM.png",МАРУСЯ ФМ
 #EXTGRP:Russian Radio
 https://msk8.radio-holding.ru/marusya_default
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/aa/avto_radio_ru.png",АВТОРАДИО
+#EXTINF:0 tvg-logo="https://i.ibb.co/207YhtYT/AVTORADIO.png",АВТОРАДИО
 #EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v3_1
-#EXTINF:0,МОНТЕ КАРЛО
+#EXTINF:0 tvg-logo="https://i.ibb.co/CKYz7QpN/MONTECARLO.png",МОНТЕ КАРЛО
 #EXTGRP:Russian Radio
 https://montecarlo.hostingradio.ru/montecarlo128.mp3
-#EXTINF:0,ДЯДЯ ВАНЯ
+#EXTINF:0 tvg-logo="https://i.ibb.co/zVQ8Xd8H/DYADYA-VANYA.png",ДЯДЯ ВАНЯ
 #EXTGRP:Russian Radio
 https://ic1.radiosignal.one/vanya
-#EXTINF:0,РЕТРО ХИТ
+#EXTINF:0 tvg-logo="https://i.ibb.co/svq7spGm/RETROHIT.png",РЕТРО ХИТ
 #EXTGRP:Russian Radio
 https://retro.amgradio.ru/Retro
-#EXTINF:0,РУССКАЯ ВОЛНА
+#EXTINF:0 tvg-logo="https://i.ibb.co/chd9FWkp/RUSSKAYAVOLNA.png",РУССКАЯ ВОЛНА
 #EXTGRP:Russian Radio
 https://rp.amgradio.ru/RuWave48
-#EXTINF:0,НОВОЕ РАДИО
+#EXTINF:0 tvg-logo="https://i.ibb.co/prNkdP6Y/NOVOERADIO.png",НОВОЕ РАДИО
 #EXTGRP:Russian Radio
 https://stream.newradio.ru/novoe96.aacp
-#EXTINF:0,РАДИО CAFE
+#EXTINF:0 tvg-logo="https://i.ibb.co/zhrZfTxW/RADIOCAFE.png",РАДИО CAFE
 #EXTGRP:Russian Radio
 https://cafe.amgradio.ru/Cafe
-#EXTINF:0,ДОРОЖНОЕ РАДИО
+#EXTINF:0 tvg-logo="https://i.ibb.co/jPPvw0LM/DOROJNOERADIO.png",ДОРОЖНОЕ РАДИО
 #EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 #EXTINF:0,НАШЕ РАДИО

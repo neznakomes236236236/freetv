@@ -350,6 +350,42 @@ http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:0,ШАНСОН ТВ
 #EXTGRP:Музыка
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF:0,ONE BY
+#EXTGRP:Музыка
+http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
+#EXTINF:0,EUROPA PLUS TV
+#EXTGRP:Музыка
+http://5.3.176.223:81/udp/235.10.10.242:1234
+#EXTINF:0,ЖАРА
+#EXTGRP:Музыка
+http://31.148.48.15/Zhara/index.m3u8
+#EXTINF:0,МУЗ ТВ
+#EXTGRP:Музыка
+http://s1.merlive.am/muztv/index.m3u8
+#EXTINF:0,МУЗЫКА ПЕРВОГО
+#EXTGRP:Музыка
+http://5.3.176.223:81/udp/235.10.10.79:1234
+#EXTINF:0,СТРАНА ФМ
+#EXTGRP:Музыка
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:0,MCM TOP
+#EXTGRP:Музыка
+http://193.27.209.122/mcm_top/index.m3u8
+#EXTINF:0,MTV 80S
+#EXTGRP:Музыка
+http://213.169.39.30:5137
+#EXTINF:0,MTV 90S
+#EXTGRP:Музыка
+http://213.169.39.30:5203
+#EXTINF:0,SONGTV RU
+#EXTGRP:Музыка
+https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
+#EXTINF:0,TRACE URBAN
+#EXTGRP:Музыка
+http://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:0,VIVA RUSSIAN
+#EXTGRP:Музыка
+http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 
 #EXTINF:0,VIASAT NATURE
 #EXTGRP:Познавательные
@@ -387,6 +423,7 @@ http://s1.merlive.am/Nostalgia/index.m3u8
 #EXTINF:0,СОВЕРШЕННО СЕКРЕТНО
 #EXTGRP:Познавательные
 http://178.124.152.238:8088/sovsec
+
 
 
 #EXTINF:0,МАТЧ ТВ
@@ -655,6 +692,64 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:0,CARTOON NETWORK TR
 #EXTGRP:Turk
 https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+
+
+#EXTINF:0,NICKELODION
+#EXTGRP:Детские
+http://s1.merlive.am/Nickelodeon/index.m3u8
+#EXTINF:0,GULLI GIRL
+#EXTGRP:Детские
+http://92.242.110.52:9835/udp/238.1.9.6:1234
+#EXTINF:0,0!
+#EXTGRP:Детские
+http://178.217.72.66:8080/O/index.m3u8
+#EXTINF:0,РАДОСТЬ МОЯ
+#EXTGRP:Детские
+http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:0,МАМА
+#EXTGRP:Детские
+http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
+#EXTINF:0,ANI
+#EXTGRP:Детские
+http://dmi3y-tv.ru/hls/CH_ANI.m3u8
+#EXTINF:0,МУЛЬТ
+#EXTGRP:Детские
+http://dmi3y-tv.ru/hls/CH_MULT.m3u8
+#EXTINF:0,МУЛЬТ И МУЗЫКА
+#EXTGRP:Детские
+http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
+#EXTINF:0,В ГОСТЯХ У СКАЗКИ
+#EXTGRP:Детские
+http://178.217.72.66:8080/Black/index.m3u8
+#EXTINF:0,ДЕТСКИЙ МИР
+#EXTGRP:Детские
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:0,КАРУСЕЛЬ
+#EXTGRP:Детские
+http://178.217.72.66:8080/Karusel/index.m3u8
+#EXTINF:0,РЫЖИЙ
+#EXTGRP:Детские
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:0,СТС КИДС
+#EXTGRP:Детские
+http://s1.merlive.am/STSkids/index.m3u8
+#EXTINF:0,СОЛНЦЕ
+#EXTGRP:Детские
+http://s1.merlive.am/solnce/index.m3u8
+#EXTINF:0,УНИКУМ
+#EXTGRP:Детские
+http://5.3.176.223:81/udp/235.10.10.52:1234
+#EXTINF:0,МУЛЬТИЛАНДИЯ
+#EXTGRP:Детские
+http://s1.merlive.am/multilandia/index.m3u8
+#EXTINF:0,БОБЁР
+#EXTGRP:Детские
+http://45.143.108.110:2200/bober
+#EXTINF:0,ДЕТСКОЕ КИНО ИНТ
+#EXTGRP:Детские
+https://v2.catcast.tv/content/38720/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
@@ -1893,42 +1988,78 @@ https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS8507zA9gG2ap/ZX
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX
 
 
-#EXTINF:0,Авторадио
+#EXTINF:0,РУССКОЕ РАДИО
+#EXTGRP:Russian Radio
+https://rusradio.hostingradio.ru/rusradio128.mp3
+#EXTINF:0,МАРУСЯ ФМ
+#EXTGRP:Russian Radio
+https://msk8.radio-holding.ru/marusya_default
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/radio/aa/avto_radio_ru.png",АВТОРАДИО
 #EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v3_1
-#EXTINF:0,Дорожное Радио
+#EXTINF:0,МОНТЕ КАРЛО
+#EXTGRP:Russian Radio
+https://montecarlo.hostingradio.ru/montecarlo128.mp3
+#EXTINF:0,ДЯДЯ ВАНЯ
+#EXTGRP:Russian Radio
+https://ic1.radiosignal.one/vanya
+#EXTINF:0,РЕТРО ХИТ
+#EXTGRP:Russian Radio
+https://retro.amgradio.ru/Retro
+#EXTINF:0,РУССКАЯ ВОЛНА
+#EXTGRP:Russian Radio
+https://rp.amgradio.ru/RuWave48
+#EXTINF:0,НОВОЕ РАДИО
+#EXTGRP:Russian Radio
+https://stream.newradio.ru/novoe96.aacp
+#EXTINF:0,РАДИО CAFE
+#EXTGRP:Russian Radio
+https://cafe.amgradio.ru/Cafe
+#EXTINF:0,ДОРОЖНОЕ РАДИО
 #EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:0,Наше радио
+#EXTINF:0,НАШЕ РАДИО
 #EXTGRP:Russian Radio
 http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:0,Радио DFM
+#EXTINF:0,РАДИО DFM
 #EXTGRP:Russian Radio
 http://dfm.hostingradio.ru/dfm128.mp3
-#EXTINF:0,Радио Маяк
+#EXTINF:0,РАДИО MAXIMUM
+#EXTGRP:Russian Radio
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:0,РАДИО COMEDY
+#EXTGRP:Russian Radio
+https://pub0201.101.ru/stream/air/aac/64/202
+#EXTINF:0,РАДИО МАЯК
 #EXTGRP:Russian Radio
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:0,Радио Мир
+#EXTINF:0,РАДИО РОМАНТИКА
+#EXTGRP:Russian Radio
+https://pub0201.101.ru/stream/air/aac/64/101
+#EXTINF:0,РАДИО МИР
 #EXTGRP:Russian Radio
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:0,Радио на семи холмах
+#EXTINF:0,РАДИО НА СЕМИ ХОЛМАХ
 #EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:0,Радио Романтика
+#EXTINF:0,РАДИО РОМАНТИКА
 #EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v4_1
-#EXTINF:0,Радио Шансон
+#EXTINF:0,РАДИО ШАНСОН
 #EXTGRP:Russian Radio
 http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:0,Радио Ваня
+#EXTINF:0,РАДИО ВАНЯ
 #EXTGRP:Russian Radio
 http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
-#EXTINF:0,Ретро FM
+#EXTINF:0,РЕТРО FM
 #EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:0,Хит FM
+#EXTINF:0,ХИТ FM
 #EXTGRP:Russian Radio
 http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:0,Юмор FM
+#EXTINF:0,ЮМОР FM
 #EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v5_1
+#EXTINF:0,РАДИО NJR
+#EXTGRP:Russian Radio
+https://pub0201.101.ru/stream/air/aac/64/99

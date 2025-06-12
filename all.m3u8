@@ -1989,6 +1989,9 @@ https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS8507zA9gG2ap/ZX
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX
 
 
+#EXTINF:-1 tvg-name="РУССКОЕ РАДИО" tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png" group-title="Russian Radio1",РУССКОЕ РАДИО
+https://rusradio.hostingradio.ru/rusradio128.mp3
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО
 #EXTGRP:Russian Radio
 https://rusradio.hostingradio.ru/rusradio128.mp3

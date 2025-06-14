@@ -47,9 +47,15 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:0,РОССИЯ +9(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:0,КУЛЬТУРА 
+#EXTGRP:Россия
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,РТР ПЛАНЕТА
 #EXTGRP:Россия
 http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:0,РТР ПЛАНЕТА АЗИЯ
+#EXTGRP:Россия
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:0,ТВ ЦЕНТР
 #EXTGRP:Россия
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
@@ -137,6 +143,9 @@ http://5.3.176.223:81/udp/235.10.10.141:1234
 #EXTINF:0,СУББОТА
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:0,СУББОТА HD
+#EXTGRP:Россия
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:0,МОСКВА 24
 #EXTGRP:Россия
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
@@ -158,6 +167,9 @@ https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:0,Ю ТВ
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:0,КРИК ТВ
+#EXTGRP:Россия
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 
 #EXTINF:0,АТВ СТАВОРОПОЛЬ
 #EXTGRP:Российские региональные
@@ -168,6 +180,12 @@ http://river-1.rutube.ru/stream/genetta-514.ost.rutube.ru/D7WgDcVqMP_Dtnr_SzPAQg
 #EXTINF:0,АРСЕНАЛ
 #EXTGRP:Российские региональные
 http://178.217.72.66:8080/arsenalhd/index.m3u8
+#EXTINF:0,АИСТ ТВ
+#EXTGRP:Российские региональные
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:0,АСТРАХАНЬ 24
+#EXTGRP:Российские региональные
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 #EXTINF:0,БЕЛГОРОД 24
 #EXTGRP:Российские региональные
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
@@ -186,9 +204,12 @@ http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
 #EXTINF:0,ГУБЕРНИЯ САМАРА
 #EXTGRP:Российские региональные
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:0,ГРОЗНЫЙ
+#EXTGRP:Российские региональные
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:0,ДАГЕСТАН
 #EXTGRP:Российские региональные
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:0,ДОН 24
 #EXTGRP:Российские региональные
 http://river-1.rutube.ru/stream/genetta-517.ost.rutube.ru/BFvLAywSm-mR0m-r8qyEfA/1750163351/72ced5d533f940251e5e4bd5d61f6bc9/1080p_stream.m3u8
@@ -204,15 +225,39 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:0,КРАСНАЯ ЛИНИЯ
 #EXTGRP:Российские региональные
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:0,КРАСНОДАР HD
+#EXTGRP:Российские региональные
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:0,КРЫМ 24
+#EXTGRP:Российские региональные
+http://live24.trkcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0,КУРАЙ УФА
 #EXTGRP:Российские региональные
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:0,ЛИПЕЦКОЕ ВРЕМЯ
+#EXTGRP:Российские региональные
+http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
 #EXTINF:0,МТВ ВОЛГОГРАД
 #EXTGRP:Российские региональные
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:0,МОРДОВИЯ 24
+#EXTGRP:Российские региональные
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:0,НАРОДНОЕ ТВ МОРДОВИИ
+#EXTGRP:Российские региональные
+http://dmi3y-tv.ru/hls/region/CH_NTM_SRNK.m3u8
 #EXTINF:0,НВК САХА
 #EXTGRP:Российские региональные
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0,ННТВ НИЖЕГОРОДНЕЕ
+#EXTGRP:Российские региональные
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:0,НОВЫЙ ВЕК ТАМБОВ
+#EXTGRP:Российские региональные
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:0,НТС СЕВАСТОПОЛЬ
+#EXTGRP:Российские региональные
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 #EXTINF:0,НИЖНИЙ НОВГОРОД 24
 #EXTGRP:Российские региональные
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
@@ -225,6 +270,9 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:0,НТС СЕВАСТОПОЛЬ
 #EXTGRP:Российские региональные
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:0,ОБКОМ ТВ (ОМСК)
+#EXTGRP:Российские региональные
+https://www.omsk-kprf.ru/hls/stream.m3u8
 #EXTINF:0,ТВК
 #EXTGRP:Российские региональные
 https://air.tvk6.ru/tvk24/playlist.m3u8
@@ -240,18 +288,12 @@ https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:0,ЭХО ТВ РЯЗАНЬ
 #EXTGRP:Российские региональные
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0,ЮГРА
-#EXTGRP:Российские региональные
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:0,ТОЛЬЯТТИ 24
 #EXTGRP:Российские региональные
 https://tvtogliatti24.ru/hls/live1080/index.m3u8
 #EXTINF:0,ЩЕЛКОВСКОЕ ТВ
 #EXTGRP:Российские региональные
 https://stream1.tv41.ru/hls/1080/live.m3u8
-#EXTINF:0,ЯМАЛ ТВ
-#EXTGRP:Российские региональные
-https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
 #EXTINF:0,10 КАНАЛ (НОВОКУЗНЕЦК)
 #EXTGRP:Российские региональные
 https://stream1.tv41.ru/hls/1080/live.m3u8
@@ -270,7 +312,72 @@ http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/4W-N-JVra8AU7tvnQ7tTeQ/
 #EXTINF:0,78 КАНАЛ САНКТ ПЕТЕРБУРГ
 #EXTGRP:Российские региональные
 http://5.3.176.223:81/udp/235.10.10.179:1234
-
+#EXTINF:0,ЭХО ТВ 24
+#EXTGRP:Российские региональные
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:0,РАМЕНСКОЕ
+#EXTGRP:Российские региональные
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:0,РЕГИОН 67 (СМОЛЕНСК)
+#EXTGRP:Российские региональные
+http://212.3.155.126:8181/udp/233.67.67.177:5510
+#EXTINF:0,ТВК КРАСНОЯРСК
+#EXTGRP:Российские региональные
+https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:0,ПЕРВЫЙ ЯРОСЛАВСКИЙ
+#EXTGRP:Российские региональные
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+#EXTINF:0,ПЕРВЫЙ КРЫМСКИЙ
+#EXTGRP:Российские региональные
+http://live1.trkcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0,ПЕРВЫЙ ТУЛЬСКИЙ
+#EXTGRP:Российские региональные
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:0,САРАТОВ 24 HD
+#EXTGRP:Российские региональные
+http://dmi3y-tv.ru/hls/region/CH_SARATOV24HD_SARATOV.m3u8
+#EXTINF:0,СОЧИ LIVE HD
+#EXTGRP:Российские региональные
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:0,СОЧИ 24 HD
+#EXTGRP:Российские региональные
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:0,СИМФЕРОПОЛЬ 24 HD
+#EXTGRP:Российские региональные
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:0,С1 СУРГУТ 86
+#EXTGRP:Российские региональные
+https://sitv.ru/hls/s86512.m3u8
+#EXTINF:0,СВОЕ ТВ СТАВРОПОЛЬ
+#EXTGRP:Российские региональные
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:0,СЕВЕР (НАРЬЯН МАР)
+#EXTGRP:Российские региональные
+http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:0,НТК ИНГУШЕТИЯ
+#EXTGRP:Российские региональные
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+#EXTINF:0,ТАВРИЯ
+#EXTGRP:Российские региональные
+https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
+#EXTINF:0,ТВЕРСКОЙ ПРОСПЕКТ РЕГИОН
+#EXTGRP:Российские региональные
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:0,ТЕЛЕКАНАЛ ГИС САМАРА
+#EXTGRP:Российские региональные
+https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:0,ТЕЛПЛЮС (АСТРАХАНЬ)
+#EXTGRP:Российские региональные
+http://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:0,ЮГРА
+#EXTGRP:Российские региональные
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:0,ЯЛТА ТВ
+#EXTGRP:Российские региональные
+http://195.26.83.96:7029/play/a006
+#EXTINF:0,ЯМАЛ ТВ
+#EXTGRP:Российские региональные
+https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
 
 #EXTINF:0,РБК
 #EXTGRP:Новости
@@ -655,6 +762,9 @@ http://5.3.176.223:81/udp/235.10.10.76:1234
 #EXTINF:0,ВКУС ТВ
 #EXTGRP:Познавательные
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
+#EXTINF:0,НАНО ТВ
+#EXTGRP:Познавательные
+http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:0,ОХОТНИК И РЫБОЛОВ
 #EXTGRP:Познавательные
 http://5.3.176.223:81/udp/235.10.10.119:1234

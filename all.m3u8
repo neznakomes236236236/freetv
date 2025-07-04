@@ -52,46 +52,34 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,РТР ПЛАНЕТА
 #EXTGRP:Россия
-http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:0,РТР ПЛАНЕТА АЗИЯ
-#EXTGRP:Россия
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
 #EXTINF:0,ТВ ЦЕНТР
 #EXTGRP:Россия
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:Россия
+http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
 #EXTINF:0,Домашний Интернешл
 #EXTGRP:Россия
 http://178.124.152.238:8088/dom
 #EXTINF:0,Домашний Интернешл Резерв
 #EXTGRP:Россия
 http://213.91.178.133:8000/play/a0b5
-#EXTINF:0,Домашний +4
-#EXTGRP:Россия
-http://45.143.108.110:2200/domashni
-#EXTINF:0,ПЕРЕЦ Int
-#EXTGRP:Россия
-http://45.143.108.110:2200/perec
 #EXTINF:0,Пятый канал
 #EXTGRP:Россия
 http://178.217.72.66:8080/5_Kanal/index.m3u8
 #EXTINF:0,Пятый канал Int
 #EXTGRP:Россия
 http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:0,ТВ3 HD
-#EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/6XM-amfUyZTjt4DDyFotQw/1750162770/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
-#EXTINF:0,ТВ3 резерв
+#EXTINF:0,ТВ3
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:0,ПЯТНИЦА HD
+#EXTINF:0,Пятница
 #EXTGRP:Россия
-http://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/nf1UwoYeIdCsYPbtrzY56A/1750162767/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+http://vs6.cdn.mrf.tvime.ru/piatnitsahd_MSK/video.m3u8
 #EXTINF:0,Пятница +4
 #EXTGRP:Россия
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятница Инт
-#EXTGRP:Россия
-http://ott-cdn.ucom.am/s50/index.m3u8
 #EXTINF:0,Пятница +4
 #EXTGRP:Россия
 http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
@@ -110,12 +98,9 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:0,ЧЕ
 #EXTGRP:Россия
 http://178.212.71.253:8000/play/139/index.m3u8
-#EXTINF:0,ПЕРЕЦ
+#EXTINF:0,СТС
 #EXTGRP:Россия
-http://213.91.178.133:8000/play/a0ay
-#EXTINF:0,СТС HD
-#EXTGRP:Россия
-http://178.217.72.66:8080/STS/index.m3u8
+http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:0,СТС Int
 #EXTGRP:Россия
 http://213.91.178.133:8000/play/a05u
@@ -137,9 +122,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:0,ЗВЕЗДА +4
 #EXTGRP:Россия
 http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8
-#EXTINF:0,ЗВЕЗДА ПЛЮС HD
+#EXTINF:0,ПОБЕДА
 #EXTGRP:Россия
-http://5.3.176.223:81/udp/235.10.10.141:1234
+http://77.235.1.19:8000/play/a07u/index.m3u8
 #EXTINF:0,СУББОТА
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
@@ -394,7 +379,7 @@ http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=9445009889576578422036
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,РОССИЯ 24
 #EXTGRP:Новости
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+http://vs6.cdn.mrf.tvime.ru/rossiia24_MSK/video.m3u8
 #EXTINF:0,Соловьев Live HD
 #EXTGRP:Новости
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
@@ -409,11 +394,16 @@ http://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0,360
 #EXTGRP:Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 #EXTINF:0,RTVI
 #EXTGRP:Новости
-http://45.143.108.110:2203/RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
 
+
+
+#EXTINF:0,КИНОЛАФФКА
+#EXTGRP:РуФильмы
+http://river-1.rutube.ru/stream/genetta-504.ost.rutube.ru/yiA3BqWBlpLeZ7jJMB73tQ/1751989236/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
 #EXTINF:0,НАШЕ НОВОЕ КИНО
 #EXTGRP:РуФильмы
 http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
@@ -467,7 +457,9 @@ http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
 http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
 
 
-
+#EXTINF:0,КИНОЛЕНТА 24
+#EXTGRP:Фильмы
+http://river-1.rutube.ru/stream/genetta-511.ost.rutube.ru/vuKcX4P1gkKSA0faabneRQ/1752048114/23c568b69e0eada33560850484223739/1080p_stream.m3u8
 #EXTINF:0,AMEDIA PREMIUM HD
 #EXTGRP:Фильмы
 http://s1.merlive.am/amediapremium/index.m3u8
@@ -533,7 +525,7 @@ http://s1.merlive.am/kinomix/index.m3u8
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 #EXTINF:0,КИНОПРЕМЬЕРА (РЕЗЕРВ)
 #EXTGRP:Фильмы
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+http://213.230.65.252:8000/play/aa65
 #EXTINF:0,КОМЕДИЯ
 #EXTGRP:Фильмы
 http://178.217.72.66:8080/Komediya/index.m3u8
@@ -670,7 +662,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0,РУ ТВ HD
 #EXTGRP:Музыка
-http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:0,ШАНСОН ТВ
 #EXTGRP:Музыка
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
@@ -682,10 +674,10 @@ http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
 http://5.3.176.223:81/udp/235.10.10.242:1234
 #EXTINF:0,ЖАРА
 #EXTGRP:Музыка
-http://31.148.48.15/Zhara/index.m3u8
+http://5.134.87.11:4600/jara/index.m3u8
 #EXTINF:0,МУЗ ТВ
 #EXTGRP:Музыка
-http://s1.merlive.am/muztv/index.m3u8
+http://river-1.rutube.ru/stream/genetta-517.ost.rutube.ru/xw46fzKEAJnlC7KzyVCASQ/1751647458/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
 #EXTINF:0,МУЗЫКА ПЕРВОГО
 #EXTGRP:Музыка
 http://5.3.176.223:81/udp/235.10.10.79:1234
@@ -714,6 +706,20 @@ http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTGRP:Музыка
 http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 
+
+
+#EXTINF:0,ЗОО ТВ
+#EXTGRP:Познавательные
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:0,ИСТОРИЯ
+#EXTGRP:Познавательные
+http://176.96.241.40/History/index.m3u8
+#EXTINF:0,МОЯ ПЛАНЕТА
+#EXTGRP:Познавательные
+http://77.235.1.19:8000/play/a00z/index.m3u8
+#EXTINF:0,МУЖСКОЙ
+#EXTGRP:Познавательные
+http://80.245.95.243:8888/play/sgg798/index.m3u8
 #EXTINF:0,VIASAT NATURE
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
@@ -785,20 +791,30 @@ http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:0,ОХОТНИК И РЫБОЛОВ
 #EXTGRP:Познавательные
-http://5.3.176.223:81/udp/235.10.10.119:1234
+http://158.160.149.81:8080/689/index.m3u8
 #EXTINF:0,ОХОТНИК И РЫБОЛОВ ИНТ
 #EXTGRP:Познавательные
 http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/6EgoYJm3BGMQbg69DkPFqA/1750162489/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
+#EXTINF:0,РЫБОЛОВ
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/351/index.m3u8
+#EXTINF:0,УСАДЬБА
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/145/index.m3u8
+
 
 #EXTINF:0,EUROSPORT 1
 #EXTGRP:Спортивные
 http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:Спортивные
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
 #EXTINF:0,МАТЧ ТВ
 #EXTGRP:Спортивные
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/quM5oDDkfcC796PO7u35YQ/1751921141/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 #EXTINF:0,МАТЧ АРЕНА
 #EXTGRP:Спортивные
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
 #EXTINF:0,МАТЧ БОЕЦ
 #EXTGRP:Спортивные
 http://87.120.142.11:18000/Match!
@@ -844,6 +860,9 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 #EXTINF:0,TRT SPOR [TR]
 #EXTGRP:Спортивные
 http://185.234.111.229:8000/play/a00e
+#EXTINF:0,HT SPOR [TR] 
+#EXTGRP:Спортивные
+http://185.234.111.229:8000/play/a016
 #EXTINF:0,SPORT ITALIA [ITA]
 #EXTGRP:Спортивные
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
@@ -877,6 +896,38 @@ http://213.91.178.133:8000/play/a0at
 #EXTINF:0,Max Sport 3 [bg] 
 #EXTGRP:Спортивные
 http://213.91.178.133:8000/play/a0ar
+#EXTINF:0,ARENA SPORT [SK] 
+#EXTGRP:Спортивные
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:0,SPORT [SK] 
+#EXTGRP:Спортивные
+http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:0,BAHRAIN SPORT 1 [BH] 
+#EXTGRP:Спортивные
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0,BAHRAIN SPORT 2 [BH] 
+#EXTGRP:Спортивные
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:0,CT SPORT [CZ] 
+#EXTGRP:Спортивные
+http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:0,DUBAI SPORT 1 [AE] 
+#EXTGRP:Спортивные
+http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0,DUBAI SPORT 2 [AE] 
+#EXTGRP:Спортивные
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:0,DUBAI SPORT 3 [AE] 
+#EXTGRP:Спортивные
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:0,ESPN [US] 
+#EXTGRP:Спортивные
+http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/ry9U2zUTMOkpZ44Zu_j_oQ/1752075837/eac1e371fbb6ab680d0176d472c04089/720p_stream.m3u8
+#EXTINF:0,FOOTBOL [UZ] 
+#EXTGRP:Спортивные
+https://vod.splay.uz/live_splay/original/FutbolTV/mono.ts.m3u8
+
+
 
 
 #EXTINF:0,AKIT TV
@@ -1286,13 +1337,16 @@ https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
 
 #EXTINF:0,NICKELODION
 #EXTGRP:Детские
-http://s1.merlive.am/Nickelodeon/index.m3u8
+http://178.134.1.158:8081/nickelodeon/index.m3u8
+#EXTINF:0,NICK JR.
+#EXTGRP:Детские
+http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
 #EXTINF:0,GULLI GIRL
 #EXTGRP:Детские
 http://92.242.110.52:9835/udp/238.1.9.6:1234
 #EXTINF:0,0!
 #EXTGRP:Детские
-http://178.217.72.66:8080/O/index.m3u8
+
 #EXTINF:0,РАДОСТЬ МОЯ
 #EXTGRP:Детские
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
@@ -1301,10 +1355,13 @@ http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
 http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
 #EXTINF:0,ANI
 #EXTGRP:Детские
-http://dmi3y-tv.ru/hls/CH_ANI.m3u8
+http://178.217.72.66:8080/Ani/index.m3u8
+#EXTINF:0,O!
+#EXTGRP:Детские
+http://178.124.193.53:8181/play/1139/index.m3u8
 #EXTINF:0,МУЛЬТ
 #EXTGRP:Детские
-http://dmi3y-tv.ru/hls/CH_MULT.m3u8
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:0,МУЛЬТ И МУЗЫКА
 #EXTGRP:Детские
 http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
@@ -1319,8 +1376,7 @@ http://195.26.83.96:7007/play/14/index.m3u8
 http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:0,РЫЖИЙ
 #EXTGRP:Детские
-http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:0,СТС КИДС
+http://158.160.149.81:8080/1548/index.m3u8#EXTINF:0,СТС КИДС
 #EXTGRP:Детские
 http://s1.merlive.am/STSkids/index.m3u8
 #EXTINF:0,СОЛНЦЕ
@@ -1343,7 +1399,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://31.130.19.207:4022/udp/239.1.12.25:1234
 #EXTINF:0,TIJI
 #EXTGRP:Детские
-http://193.27.209.122/tiji/index.m3u8
+http://195.245.99.242/Tiji/playlist.m3u8
 #EXTINF:0,УНИКУМ
 #EXTGRP:Детские
 http://95.156.76.230:33001/udp/230.4.34.104:1234
@@ -2162,55 +2218,6 @@ http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/54742/
 #EXTINF:0,ПЕРШИЙ XTV MEDIA
 #EXTGRP:УКРАИНА
 http://hls.xtvmedia.pp.ua/hls/trk1tv.m3u8
-
-#EXTINF:0,НОВИЧЁК (2025)США.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://milanium.stream.voidboost.cc/dbbc875cd85197fcc241e282e428a158:2025061615:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN0JPc0Y1Ykhyd2QvdURJSGxYTnVQbVE9PQ==/1/2/8/9/7/3/5/6t0b0.mp4:hls:.ts
-#EXTINF:0,ПОД ПРИКРЫТИЕМ (2025) ВЕЛИКОБРИТАНИЯ.КОМЕДИЯ
-#EXTGRP:Фильмы новинки
-https://athens.stream.voidboost.cc/13f9b25023e41d313601a5536d3f40f2:2025061615:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNzEwUGJtaXo2ZE9NSnZFaDA3bk4va1E9PQ==/1/2/9/0/6/3/7/b3xln.mp4:hls:.ts
-#EXTINF:0,РАСПЛАТА 2 (2025) США.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://loki.stream.voidboost.cc/0362b353ab9b6c5808a66960cdacd766:2025061615:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN2c4UzFMczdjeGhreTkvbkpvQ29vL0E9PQ==/1/2/8/7/0/8/6/2hf32.mp4:hls:.ts
-#EXTINF:0,КРАКЕН (2025) РОССИЯ.ФАНТАСТИКА
-#EXTGRP:Фильмы новинки
-https://pegasus.stream.voidboost.cc/a8be687198051f7396abb0f6e6cd03a9:2025061616:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN0hnYklYK2dpZmxhVHBTMjRBQlphVnc9PQ==/1/2/8/9/5/4/4/glh3b.mp4:hls:.ts
-#EXTINF:0,МАСТЕР (2025) ВЕЛИКОБРИТАНИЯ.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://loki.stream.voidboost.cc/ad2d517e1b3078160ef760c787328b79:2025061616:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN1lucFBEeEV1UDRzczNnL0g4TDgxVmc9PQ==/1/2/8/0/7/6/6/8vuo8.mp4:hls:.ts
-#EXTINF:0,ИСТОЧНИК ВЕЧНОЙ МОЛОДОСТИ (2025) США.ПРИКЛЮЧЕНИЯ
-#EXTGRP:Фильмы новинки
-https://aura.stream.voidboost.cc/1f32c9dc53e426eec22f92c5f7e1e14c:2025061616:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN1pRY3BjSEtRNEkrK081NU9qeS9Fcmc9PQ==/1/2/7/9/9/2/8/g6diu.mp4:hls:.ts
-#EXTINF:0,СМЕРТЬ НА ТЕННИСНОМ КОРТЕ(2025) ФРАНЦИЯ.ДЕТЕКТИВЫ
-#EXTGRP:Фильмы новинки
-https://silence.stream.voidboost.cc/ddd514eb9295247f66af8ce382da8f94:2025061708:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNzRVRVZoa1ArTHJiN1JlT25CZ0cwSFE9PQ==/1/2/9/1/0/1/7/vclmo.mp4:hls:.ts
-#EXTINF:0,УЮИТЬ МЭРИ СЬЮ (2025) США.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://apollo.stream.voidboost.cc/211b6cb57e49f7c2263282ca16b37648:2025061708:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNzU5QlEyNWZtM0F2OFI3QUxRdjQ4R1E9PQ==/1/2/9/0/7/7/6/6bwpc.mp4:hls:.ts
-#EXTINF:0,ГРЕШНИКИ (2025) США.ДРАМА
-#EXTGRP:Фильмы новинки
-https://magic.stream.voidboost.cc/3ba9fc5451367ac53cc72cbfc15d88cc:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNzA3VjEwSmJVLzBab2UzTVRUeXlCMGc9PQ==/1/2/8/6/0/4/7/o4zoi.mp4:hls:.ts
-#EXTINF:0,НОВОКОИН (2025) США.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://magic.stream.voidboost.cc/28722f5e6c0b0667770499ed4bd05881:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNytNUVpTcGRQV3lpQVd1bXhIajNsaGc9PQ==/1/2/6/0/4/3/6/84ljn.mp4:hls:.ts
-#EXTINF:0,MINECRAFT В КИНО (2025) США.ПРИКЛЮЧЕНИЯ
-#EXTGRP:Фильмы новинки
-https://venom.stream.voidboost.cc/d8001bb1c386f48935f8dbddf150eaf9:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN25ISWdsUE9UMHhmVVBJaXFJdHZOUVE9PQ==/1/2/7/4/7/1/3/rhfd1.mp4:hls:.ts
-#EXTINF:0,ПОД ОГНЕМ(2025) США.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://lipsium.stream.voidboost.cc/c41e7cfeb9795dab28bf5fb6c44bfa47:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN1JicHpxVndPZ2lTME9nYS9vLzl2L1E9PQ==/1/2/7/3/3/4/0/fj85c.mp4:hls:.ts
-#EXTINF:0,ЭЛЕКТРИЧЕСКИЙ ШТАТ (2025) США.ФАНТАСТИКА
-#EXTGRP:Фильмы новинки
-https://ranger.stream.voidboost.cc/6b184c66d913b4b123b3d4c421f99032:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNzVRQzIrOVJyclRIdHRmdVhzSnBnUXc9PQ==/1/2/4/8/3/0/1/8woee.mp4:hls:.ts
-#EXTINF:0,ДЬЯВОК (2025) КОЛУМБИЯ.БОЕВИК
-#EXTGRP:Фильмы новинки
-https://relax.stream.voidboost.cc/4f4323c0b23e5b7237e565b22bc71e12:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN1Y2L2JRVG1FNUNZNlJvN1g5bVZpQkE9PQ==/1/2/9/1/0/1/4/rv6qe.mp4:hls:.ts
-#EXTINF:0,КРОВАВЫЙ УРОЖАЙ (2025) США.УЖАС
-#EXTGRP:Фильмы новинки
-https://calypso.stream.voidboost.cc/de1e4eaed8d33679ab837171c3424bda:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrNzFVTGIrbTlzdnhxVkx0eVFieXdJRVE9PQ==/1/2/8/9/0/4/7/725ni.mp4:hls:.ts
-#EXTINF:0,Святая ночь. Охотники на демонов (2025) Ю.КОРЕЯ.ФАНТАСТИКА
-#EXTGRP:Фильмы новинки
-https://loki.stream.voidboost.cc/6957af5b5d79cfcebe2738c03df78e4a:2025061709:bXh6cHQ2QlVEb0FId2VQZktsSjFzWEFFZHRWc2xnVHg1UDlaOFpNQko3OTNaQURVWTFidGtnN2pUalhxMFRrN2p1d3lMRzhQWlJpVndTeEVIWVl0Y0E9PQ==/1/2/8/8/2/6/3/qxxur.mp4:hls:.ts
 
 #EXTINF:-1 tvg-id="rusradio" tvg-name="РУССКОЕ РАДИО" tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО
 #EXTGRP:Russian Radio

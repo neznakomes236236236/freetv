@@ -2,28 +2,28 @@
 #EXTINF:0,ПЕРВЫЙ HD
 #EXTGRP:Россия
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,ПЕРВЫЙ +2
-#EXTGRP:Россия
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,ПЕРВЫЙ ЕВРОПА
 #EXTGRP:Россия
-https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:1,НТВ
+https://pkvc-hls7.cdnvideo.ru/pkvc/pk/playlist.m3u8
+#EXTINF:0,ПЕРВЫЙ КАНАЛ +2
+#EXTGRP:Россия
+http://195.158.223.132:8000/Perviy_kanal
+#EXTINF:0,НТВ
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:1,НТВ HD
+#EXTINF:0,НТВ HD
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:1,НТВ +1
+#EXTINF:0,НТВ +1
 #EXTGRP:Россия
 https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:1,НТВ +2
+#EXTINF:0,НТВ +2
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:1,НТВ +4
+#EXTINF:0,НТВ +4
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:1,НТВ +7
+#EXTINF:0,НТВ +7
 #EXTGRP:Россия
 http://cdn2.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:0,РОССИЯ HD
@@ -47,7 +47,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:0,РОССИЯ +9(HD)
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:0,КУЛЬТУРА 
+#EXTINF:0,КУЛЬТУРА
 #EXTGRP:Россия
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,РТР ПЛАНЕТА
@@ -56,81 +56,42 @@ http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf
 #EXTINF:0,ТВ ЦЕНТР
 #EXTGRP:Россия
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:0,Домашний HD
+#EXTINF:0,РЕН ТВ
 #EXTGRP:Россия
-http://vs6.cdn.mrf.tvime.ru/domashniihd_MSK/video.m3u8
-#EXTINF:0,Домашний Интернешл
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:0,РЕН ТВ РЕЗЕРВ
 #EXTGRP:Россия
-http://178.124.152.238:8088/dom
-#EXTINF:0,Домашний Интернешл Резерв
+http://5.188.221.43:8080/play/ren-tv
+#EXTINF:0,ДОМАШНИЙ
 #EXTGRP:Россия
-http://213.91.178.133:8000/play/a0b5
-#EXTINF:0,Пятый канал
-#EXTGRP:Россия
-http://178.217.72.66:8080/5_Kanal/index.m3u8
-#EXTINF:0,Пятый канал Int
-#EXTGRP:Россия
-http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:0,ТВ3
-#EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:Россия
-http://vs6.cdn.mrf.tvime.ru/piatnitsahd_MSK/video.m3u8
-#EXTINF:0,Пятница +4
-#EXTGRP:Россия
-http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятница +4
-#EXTGRP:Россия
-http://vod.tuva.ru/friday/tracks-v1a1/mono.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:0,ТНТ+2
-#EXTGRP:Россия
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:0,ТНТ Int
-#EXTGRP:Россия
-http://85.187.13.40:18000/tntint
-#EXTINF:0,ТНТ 4 HD
-#EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:0,ЧЕ
-#EXTGRP:Россия
-http://178.212.71.253:8000/play/139/index.m3u8
+http://95.66.188.74/Domashnij/mono.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Россия
-http://94.230.128.107:8080/CTC/index.m3u8
-#EXTINF:0,СТС Int
-#EXTGRP:Россия
-http://213.91.178.133:8000/play/a05u
+http://95.66.188.74/STS/mono.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:Россия
 http://194.143.148.28:8080/CTC_LOVE/index.m3u8
-#EXTINF:0,РЕН ТВ
+#EXTINF:0,ПЯТНИЦА
 #EXTGRP:Россия
-http://178.217.72.66:8080/REN_TV/index.m3u8
-#EXTINF:0,РЕНТ ТВ ИНТ
+http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:0,ПЯТНИЦА РЕЗЕРВ
 #EXTGRP:Россия
-https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Россия
+http://95.66.188.74/TNT/mono.m3u8
+#EXTINF:0,ТНТ резерв
+#EXTGRP:Россия
+http://tv.ttk.mx:9018
 #EXTINF:0,ЗВЕЗДА HD
 #EXTGRP:Россия
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,ЗВЕЗДА
 #EXTGRP:Россия
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:0,ЗВЕЗДА +4
+#EXTINF:0,ЗВЕЗДА ПЛЮС
 #EXTGRP:Россия
-http://vod.tuva.ru/zvezda/tracks-v1a1/mono.m3u8
-#EXTINF:0,ПОБЕДА
-#EXTGRP:Россия
-http://77.235.1.19:8000/play/a07u/index.m3u8
-#EXTINF:0,СУББОТА
-#EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:0,СУББОТА HD
-#EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:0,МОСКВА 24
 #EXTGRP:Россия
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
@@ -146,15 +107,21 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:0,МИР +7
 #EXTGRP:Россия
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:0,2X2
+#EXTINF:0,РЖД
 #EXTGRP:Россия
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:0,Ю ТВ
 #EXTGRP:Россия
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:0,КРИК ТВ
 #EXTGRP:Россия
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:0,ТВ БРИКС
+#EXTGRP:Россия
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:0,АРКТИКА ТВ
+#EXTGRP:Россия
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 
 
 #EXTINF:0,10 КАНАЛ (НОВОКУЗНЕЦК)
@@ -166,24 +133,9 @@ https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
 #EXTINF:0,11 КАНАЛ (ПЕНЗА)
 #EXTGRP:Российские региональные
 http://85.234.33.64/stream/c11.m3u8
-#EXTINF:0,12 КАНАЛ (ЧЕРЕПОВЕЦ)
-#EXTGRP:Российские региональные
-http://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/js5VD-hVYotnpqmZ9z_xAA/1750162543/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/1080p_stream.m3u8
-#EXTINF:0,25 РЕГИОН
-#EXTGRP:Российские региональные
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/4W-N-JVra8AU7tvnQ7tTeQ/1750162450/c3a00280a36a173641f422a7bf832c4f/1080p_stream.m3u8
-#EXTINF:0,78 КАНАЛ САНКТ ПЕТЕРБУРГ
-#EXTGRP:Российские региональные
-http://5.3.176.223:81/udp/235.10.10.179:1234
 #EXTINF:0,АТВ СТАВОРОПОЛЬ
 #EXTGRP:Российские региональные
 http://hls.atvmedia.ru/atv.m3u8
-#EXTINF:0,АБАКАН 24
-#EXTGRP:Российские региональные
-http://river-1.rutube.ru/stream/genetta-514.ost.rutube.ru/D7WgDcVqMP_Dtnr_SzPAQg/1750089847/7c5ae60686a94e04691f6917e1dec066/1080p_stream.m3u8
-#EXTINF:0,АРСЕНАЛ
-#EXTGRP:Российские региональные
-http://178.217.72.66:8080/arsenalhd/index.m3u8
 #EXTINF:0,АИСТ ТВ
 #EXTGRP:Российские региональные
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
@@ -214,9 +166,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1
 #EXTINF:0,ДАГЕСТАН
 #EXTGRP:Российские региональные
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
-#EXTINF:0,ДОН 24
-#EXTGRP:Российские региональные
-http://river-1.rutube.ru/stream/genetta-517.ost.rutube.ru/BFvLAywSm-mR0m-r8qyEfA/1750163351/72ced5d533f940251e5e4bd5d61f6bc9/1080p_stream.m3u8
 #EXTINF:0,ЕНИСЕЙ
 #EXTGRP:Российские региональные
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -238,18 +187,12 @@ http://live24.trkcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0,КУРАЙ УФА
 #EXTGRP:Российские региональные
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0,ЛИПЕЦКОЕ ВРЕМЯ
-#EXTGRP:Российские региональные
-http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
 #EXTINF:0,МТВ ВОЛГОГРАД
 #EXTGRP:Российские региональные
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:0,МОРДОВИЯ 24
 #EXTGRP:Российские региональные
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:0,НАРОДНОЕ ТВ МОРДОВИИ
-#EXTGRP:Российские региональные
-http://dmi3y-tv.ru/hls/region/CH_NTM_SRNK.m3u8
 #EXTINF:0,НВК САХА
 #EXTGRP:Российские региональные
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
@@ -261,7 +204,7 @@ http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 #EXTINF:0,НТС СЕВАСТОПОЛЬ
 #EXTGRP:Российские региональные
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:0,НИЖНИЙ НОВГОРОД 24
 #EXTGRP:Российские региональные
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
@@ -271,18 +214,9 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:0,НТМ МОРДОВИЯ
 #EXTGRP:Российские региональные
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0,НТС СЕВАСТОПОЛЬ
-#EXTGRP:Российские региональные
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:0,НТК ИНГУШЕТИЯ
-#EXTGRP:Российские региональные
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
 #EXTINF:0,ОБКОМ ТВ (ОМСК)
 #EXTGRP:Российские региональные
 https://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:0,ПЕРВЫЙ ЯРОСЛАВСКИЙ
-#EXTGRP:Российские региональные
-https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 #EXTINF:0,ПЕРВЫЙ КРЫМСКИЙ
 #EXTGRP:Российские региональные
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
@@ -295,9 +229,6 @@ https://e10-ll.facecast.net/rtv/0.m3u8
 #EXTINF:0,РЕГИОН 67 (СМОЛЕНСК)
 #EXTGRP:Российские региональные
 http://212.3.155.126:8181/udp/233.67.67.177:5510
-#EXTINF:0,САРАТОВ 24 HD
-#EXTGRP:Российские региональные
-http://dmi3y-tv.ru/hls/region/CH_SARATOV24HD_SARATOV.m3u8
 #EXTINF:0,СОЧИ LIVE HD
 #EXTGRP:Российские региональные
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
@@ -310,9 +241,6 @@ http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:0,С1 СУРГУТ 86
 #EXTGRP:Российские региональные
 https://sitv.ru/hls/s86512.m3u8
-#EXTINF:0,СВОЕ ТВ СТАВРОПОЛЬ
-#EXTGRP:Российские региональные
-https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
 #EXTINF:0,СЕВЕР (НАРЬЯН МАР)
 #EXTGRP:Российские региональные
 http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
@@ -331,15 +259,9 @@ https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:0,ТОЛЬЯТТИ 24
 #EXTGRP:Российские региональные
 https://tvtogliatti24.ru/hls/live1080/index.m3u8
-#EXTINF:0,ТАВРИЯ
-#EXTGRP:Российские региональные
-https://tavr.mediacdn.ru/cdn/tavria/playlist.m3u8
 #EXTINF:0,ТВЕРСКОЙ ПРОСПЕКТ РЕГИОН
 #EXTGRP:Российские региональные
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
-#EXTINF:0,ТЕЛЕКАНАЛ ГИС САМАРА
-#EXTGRP:Российские региональные
-https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:0,ТЕЛПЛЮС (АСТРАХАНЬ)
 #EXTGRP:Российские региональные
 http://streaming.astrakhan.ru/telplushd/playlist.m3u8
@@ -364,22 +286,21 @@ http://195.26.83.96:7029/play/a006
 #EXTINF:0,ЯМАЛ ТВ
 #EXTGRP:Российские региональные
 https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
-
 #EXTINF:0,РБК
 #EXTGRP:Новости
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:0,РБК HD
 #EXTGRP:Новости
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:0,EURONEWS
+#EXTINF:0,EURONEWS YOUTUBE
 #EXTGRP:Новости
-http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
+https://youtu.be/lwYzwdBiaho
 #EXTINF:0,МИР 24
 #EXTGRP:Новости
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,РОССИЯ 24
 #EXTGRP:Новости
-http://vs6.cdn.mrf.tvime.ru/rossiia24_MSK/video.m3u8
+http://95.66.188.74/Rossia24/mono.m3u8
 #EXTINF:0,Соловьев Live HD
 #EXTGRP:Новости
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
@@ -394,144 +315,126 @@ http://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:0,360
 #EXTGRP:Новости
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:0,360 Новости
+#EXTGRP:Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:0,RTVI
 #EXTGRP:Новости
 http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:0,ТАСС 
+#EXTGRP:Новости
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:Новости
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.us_privacy=1YNY&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.ssai_vendor=SSSLIVE
+#EXTINF:0,CNN
+#EXTGRP:Новости
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:0,Deutsche Welle Rus
+#EXTGRP:Новости
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:0,CGTV RU
+#EXTGRP:Новости
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 
-
-#EXTINF:0,КИНОЛАФФКА
-#EXTGRP:РуФильмы
-http://river-1.rutube.ru/stream/genetta-504.ost.rutube.ru/yiA3BqWBlpLeZ7jJMB73tQ/1751989236/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
-#EXTINF:0,НАШЕ НОВОЕ КИНО
-#EXTGRP:РуФильмы
-http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
-#EXTINF:0,Viju TV1000 Ru Kino
-#EXTGRP:РуФильмы
-http://213.91.178.133:8000/play/a0bx
-#EXTINF:0,Viju Novella HD
-#EXTGRP:РуФильмы
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=9Qczw2zRJLTahDPtRz9Cjw&e=1750042751&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:0,ДОМ КИНО PREMIUM
-#EXTGRP:РуФильмы
-http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:0,ПОБЕДА
-#EXTGRP:РуФильмы
-http://178.217.72.66:8080/pobeda/index.m3u8
-#EXTINF:0,РУССКИЙ ИЛЛЮЗИОН
-#EXTGRP:РуФильмы
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:0,РУССКИЙ БЕСТСЕЛЛЕР
-#EXTGRP:РуФильмы
-http://92.242.110.52:9835/udp/238.1.7.29:1234
-#EXTINF:0,РУССКИЙ БЕСТСЕЛЛЕР (РЕЗЕРВ)
-#EXTGRP:РуФильмы
-http://5.3.176.223:81/udp/235.10.10.45:1234
-#EXTINF:0,РУССКИЙ ДЕТЕКТИВ
-#EXTGRP:РуФильмы
-http://195.245.99.242/Detectiv/playlist.m3u8
-#EXTINF:0,РУССКИЙ РОМАН
-#EXTGRP:РуФильмы
-http://95.156.76.230:33001/udp/230.4.34.69:1234
-#EXTINF:0,НТВ СЕРИАЛ
-#EXTGRP:РуФильмы
-http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ ХИТ
-#EXTGRP:РуФильмы
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:0,БОЛТ РОССИЯ HD
-#EXTGRP:РуФильмы
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
-#EXTINF:0,НАШЕ НОВОЕ HD
-#EXTGRP:РуФильмы
-http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
+#EXTGRP:Фильмы
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:0,НТВ СЕРИАЛ
+#EXTGRP:Фильмы
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:0,FILM TV GROUP КИНО
+#EXTGRP:Фильмы
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8
+#EXTINF:0,TV 1000
+#EXTGRP:Фильмы
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0,TV 1000 РУ КИНО
+#EXTGRP:Фильмы
+http://tv.ttk.mx:9183
+#EXTINF:0,TV 1000 ACTION
+#EXTGRP:Фильмы
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0,VIASAT KINO COMEDY
+#EXTGRP:Фильмы
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:0,Дом кино
+#EXTGRP:Фильмы
+http://176.96.241.40/DomKino/index.m3u8
+#EXTINF:0,Дом кино Премиум HD
+#EXTGRP:Фильмы
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:Фильмы
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:0,Дорама HD
+#EXTGRP:Фильмы
+http://176.96.241.40/Dorama/index.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:Фильмы
+http://195.158.223.132:8010/Evrokino
+#EXTINF:0,Иллюзион+
+#EXTGRP:Фильмы
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:0,Индийское кино
+#EXTGRP:Фильмы
+http://188.113.190.12/329/index.m3u8
+#EXTINF:0,Индия
+#EXTGRP:Фильмы
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:0,Кинеко
+#EXTGRP:Фильмы
+http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
+#EXTINF:0,Кино 1 Int.
+#EXTGRP:Фильмы
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:0,Кино ТВ
+#EXTGRP:Фильмы
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:Фильмы
+http://tv.ttk.mx:9113
+#EXTINF:0,Кинокомедия
+#EXTGRP:Фильмы
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:0,Кинокомедия HD
+#EXTGRP:Фильмы
+https://vod.splay.uz/live_splay/original/Kinokomediya/index.m3u8
+#EXTINF:0,Киноман
+#EXTGRP:Фильмы
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:0,Киномикс
+#EXTGRP:Фильмы
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:0,Киномикс HD
+#EXTGRP:Фильмы
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:0,Кинопоказ
+#EXTGRP:Фильмы
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:Фильмы
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:0,Кинопремьера HD резерв
+#EXTGRP:Фильмы
+http://tv.ttk.mx:9162
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:Фильмы
+https://vod.splay.uz/live_splay/original/Kinopremera/mono.m3u8
+#EXTINF:0,Киносвидание
+#EXTGRP:Фильмы
+http://tv.ttk.mx:9164
 #EXTINF:0,МОСФИЛЬМ ЗОЛОТАЯ КОЛЛЕКЦИЯ
-#EXTGRP:РуФильмы
+#EXTGRP:Фильмы
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:0,ДОМ КИНО ПРЕМИУМ HD
-#EXTGRP:РуФильмы
-http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:0,МИР СЕРИАЛА
-#EXTGRP:РуФильмы
-http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDk2ODAyMzUsImlhdCI6MTc0OTU5MzgzNSwiY2lkIjo2LCJ1aWQiOjkyMjk3OTgyMCwicmVnIjpmYWxzZSwiaXAiOjMyNTA0MTQ3OTYsImFkdWx0IjpmYWxzZX0.xYD1NErfI1GzxRPA7P8SiAHtDXc8YHVB4qbw8VrYV9A&offset=3
-
-
-#EXTINF:0,КИНОЛЕНТА 24
-#EXTGRP:Фильмы
-http://river-1.rutube.ru/stream/genetta-511.ost.rutube.ru/vuKcX4P1gkKSA0faabneRQ/1752048114/23c568b69e0eada33560850484223739/1080p_stream.m3u8
-#EXTINF:0,AMEDIA PREMIUM HD
-#EXTGRP:Фильмы
-http://s1.merlive.am/amediapremium/index.m3u8
-#EXTINF:0,AMEDIA HIT HD
-#EXTGRP:Фильмы
-http://178.217.72.66:8080/Amedia_Hit/index.m3u8
-#EXTINF:0,AMEDIA 1
-#EXTGRP:Фильмы
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:0,AMEDIA 2
-#EXTGRP:Фильмы
-http://31.148.48.15/A2/index.m3u8
-#EXTINF:0,ПРЕМИАЛЬНОЕ HD
-#EXTGRP:Фильмы
-http://141.95.55.143/CH545/index.m3u8
 #EXTINF:0,КИНОТЕКО
 #EXTGRP:Фильмы
 http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:0,CINEMA
 #EXTGRP:Фильмы
-http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
-#EXTINF:0,Viju TV 1000
-#EXTGRP:Фильмы
-http://45.143.108.110:2200/tv1000
-#EXTINF:0,Viju TV 1000 Action
-#EXTGRP:Фильмы
-http://178.217.72.66:8080/TV_1000_Action/index.m3u8
-#EXTINF:0,BOLLYWOOD
-#EXTGRP:Фильмы
-http://s1.merlive.am/Bollywood/index.m3u8
-#EXTINF:0,КОШМАР 
-#EXTGRP:Фильмы
-http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
-#EXTINF:0,КИНО ТВ
-#EXTGRP:Фильмы
-http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
-#EXTINF:0,КИНОСЕМЬЯ
-#EXTGRP:Фильмы
-http://178.217.72.66:8080/Kinosemya/index.m3u8
-#EXTINF:0,КИНОСЕМЬЯ (РЕЗЕРВ)
-#EXTGRP:Фильмы
-http://92.242.110.52:9835/udp/238.1.6.12:1234
-#EXTINF:0,КИНОСВИДАНИЕ
-#EXTGRP:Фильмы
-http://s1.merlive.am/kinosvidanie/index.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ (РЕЗЕРВ)
-#EXTGRP:Фильмы
-http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
-#EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP:Фильмы
-http://s1.merlive.am/kinosvidanie/index.m3u8
-#EXTINF:0,ЛЮБИМОЕ КИНО
-#EXTGRP:Фильмы
-http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
-#EXTINF:0,КИНОМИКС
-#EXTGRP:Фильмы
-http://92.242.110.52:9835/udp/238.1.6.10:1234
-#EXTINF:0,КИНОМИКС HD
-#EXTGRP:Фильмы
-http://s1.merlive.am/kinomix/index.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА HD
-#EXTGRP:Фильмы
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
-#EXTINF:0,КИНОПРЕМЬЕРА (РЕЗЕРВ)
-#EXTGRP:Фильмы
-http://213.230.65.252:8000/play/aa65
-#EXTINF:0,КОМЕДИЯ
-#EXTGRP:Фильмы
-http://178.217.72.66:8080/Komediya/index.m3u8
-#EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP:Фильмы
-http://92.242.110.52:9835/udp/238.1.6.20:1234
+http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:0,1FILMAX Фантастика
 #EXTGRP:Фильмы
 http://hls.goodgame.ru:8080/hls/204708.m3u8
@@ -547,37 +450,19 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:0,СМОТРИМ.КИНО И СЕРИАЛЫ
 #EXTGRP:Фильмы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,FILMBOX
-#EXTGRP:Фильмы
-http://213.169.39.30:5009
-#EXTINF:0,KINO LIVING
-#EXTGRP:Фильмы
-http://92.242.110.52:9835/udp/238.1.8.1:1234
-#EXTINF:0,DIZI (ТУРЕЦКИЕ СЕРИАЛЫ)
-#EXTGRP:Фильмы
-http://193.27.209.122/dizi/index.m3u8 
 #EXTINF:0,DORAMA HD
 #EXTGRP:Фильмы
 http://193.27.209.122/dorama/index.m3u8
-#EXTINF:0,MEGAHIT
+#EXTINF:0,РУССКИЙ ДЕТЕКТИВ
 #EXTGRP:Фильмы
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0,Ultra HD Cinema
-#EXTGRP:Фильмы
-http://31.130.19.207:4022/udp/239.1.12.8:1234
-#EXTINF:0,КИНОМАН
-#EXTGRP:Фильмы
-http://178.212.71.253:8000/play/66/index.m3u8
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 
 #EXTINF:0,AZTV
 #EXTGRP:Азербайджан
-http://str.yodacdn.net/aztv/index.m3u8
-#EXTINF:0,AZTV
-#EXTGRP:Азербайджан
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:0,MEDENIYYET TV
 #EXTGRP:Азербайджан
-https://str.yodacdn.net/medeniyyet/index.m3u8
+https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0,BAKU TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
@@ -598,10 +483,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:0,AZAD TV
 #EXTGRP:Азербайджан
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:0,AZAD TV
-#EXTGRP:Азербайджан
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/atv-azad.m3u8
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 #EXTINF:0,XEZER TV
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
@@ -613,13 +495,13 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:0,IDMAN TV
 #EXTGRP:Азербайджан
-http://str.yodacdn.net/idman/index.m3u8
+https://str2.yodacdn.net/idmantele/index.m3u8
 #EXTINF:0,APA TV
 #EXTGRP:Азербайджан
-http://rtmp.apa.tv/@pagroup!23.m3u8
+http://stream.apa.tv/apastream/video1_stream.m3u8
 #EXTINF:0,Naxçıvan TV
 #EXTGRP:Азербайджан
-http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:0,AZSTAR
 #EXTGRP:Азербайджан
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
@@ -638,88 +520,116 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:0,KEPEZ TV
 #EXTGRP:Азербайджан
 http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:0,BIZNES TV
+#EXTGRP:Азербайджан
+https://str.yodacdn.net/biznestv/index.m3u8
 #EXTINF:0,QAFQAZ TV
 #EXTGRP:Азербайджан
-https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=65230408cf0c8b140b6915bfe620f00eaff8175c-e24bb9bf040e194002759341e2be1930-1749994652000000-1749983852000
+https://str.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:0,KANAL 35
 #EXTGRP:Азербайджан
 https://str.yodacdn.net/kanal35/index.m3u8
-#EXTINF:0,KEPEZ TV
-#EXTGRP:Азербайджан
-http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:0,VALAYET TV
 #EXTGRP:Азербайджан
 https://cdn.nl.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:0,Vostok tv
+#EXTGRP:Азербайджан
+https://str.yodacdn.net/tmb/index.m3u8
+#EXTINF:0,TMB AZ
+#EXTGRP:Азербайджан
+http://149.255.152.199/tmbaz.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Азербайджан
+http://149.255.152.199/mtvazerbaycan.m3u8
 
 #EXTINF:0,ПЕРВЫЙ МУЗЫКАЛЬНЫЙ RU
 #EXTGRP:Музыка
 http://rtmp.one.by:2200
-#EXTINF:0,ТНТ MUSIC HD
+#EXTINF:0,СТРАНА ФМ
 #EXTGRP:Музыка
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,ШАНСОН ТВ
+#EXTGRP:Музыка
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:0,РУ ТВ
 #EXTGRP:Музыка
 http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0,РУ ТВ HD
 #EXTGRP:Музыка
 http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:0,ШАНСОН ТВ
-#EXTGRP:Музыка
-http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
-#EXTINF:0,ONE BY
-#EXTGRP:Музыка
-http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
-#EXTINF:0,EUROPA PLUS TV
-#EXTGRP:Музыка
-http://5.3.176.223:81/udp/235.10.10.242:1234
 #EXTINF:0,ЖАРА
 #EXTGRP:Музыка
-http://5.134.87.11:4600/jara/index.m3u8
+http://31.148.48.15/Zhara/index.m3u8
+#EXTINF:0,ТНТ Music HD
+#EXTGRP:Музыка
+http://tntm.mediacdn.ru/cdn/tntmusic/playlist_hdhigh.m3u8
 #EXTINF:0,МУЗ ТВ
 #EXTGRP:Музыка
-http://river-1.rutube.ru/stream/genetta-517.ost.rutube.ru/xw46fzKEAJnlC7KzyVCASQ/1751647458/df6fe73494a26f74da51573fd97b9baa/1080p_stream.m3u8
-#EXTINF:0,МУЗЫКА ПЕРВОГО
+https://streaming.goodstream.icu/live/618.m3u8
+#EXTINF:0,МУЗ ТВ (Резерв)
 #EXTGRP:Музыка
-http://5.3.176.223:81/udp/235.10.10.79:1234
+http://45.11.139.43:8555/muz/index.m3u8
 #EXTINF:0,СТРАНА ФМ
 #EXTGRP:Музыка
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
-#EXTINF:0,MCM TOP
-#EXTGRP:Музыка
-http://193.27.209.122/mcm_top/index.m3u8
-#EXTINF:0,MTV 80S
-#EXTGRP:Музыка
-http://213.169.39.30:5137
-#EXTINF:0,MTV 90S
-#EXTGRP:Музыка
-http://213.169.39.30:5203
-#EXTINF:0,SONGTV RU
-#EXTGRP:Музыка
-https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
 #EXTINF:0,TRACE URBAN
 #EXTGRP:Музыка
 http://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:0,VIVA RUSSIAN
+#EXTINF:0,ПЕРВЫЙ МУЗЫКАЛЬНЫЙ
 #EXTGRP:Музыка
-http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#EXTINF:0,DANCE HITS 80
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:0,Deluxe Dance
 #EXTGRP:Музыка
-http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0,Deluxe Dance HD
+#EXTGRP:Музыка
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+#EXTINF:0,Deluxe Lounge
+#EXTGRP:Музыка
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8
+#EXTINF:0,Deluxe Music
+#EXTGRP:Музыка
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0,Deluxe Rap
+#EXTGRP:Музыка
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:Музыка
+http://cdn.voka.tv/live/871-req_5k_v5.m3u8
+#EXTINF:0,О!2 HD
+#EXTGRP:Музыка
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:0,City TV
+#EXTGRP:Музыка
+https://tv.city.bg/play/tshls/citytv/2.m3u8
 
-
-
+#EXTINF:0,БОЛЬШАЯ АЗИЯ
+#EXTGRP:Познавательные
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:0,НЕИЗВЕСТНАЯ РОССИЯ HD
+#EXTGRP:Познавательные
+https://cdn.ntv.ru/unknown_russia/index.m3u8
 #EXTINF:0,ЗОО ТВ
 #EXTGRP:Познавательные
 http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:0,ИСТОРИЯ
+#EXTINF:0,ДИКИЙ
 #EXTGRP:Познавательные
-http://176.96.241.40/History/index.m3u8
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+#EXTINF:0,Travel Guide TV
+#EXTGRP:Познавательные
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:0,МОЯ ПЛАНЕТА
 #EXTGRP:Познавательные
-http://77.235.1.19:8000/play/a00z/index.m3u8
+https://tv.streams.baikal-telecom.net/Moya_Planeta/index.m3u8
 #EXTINF:0,МУЖСКОЙ
 #EXTGRP:Познавательные
 http://80.245.95.243:8888/play/sgg798/index.m3u8
+#EXTINF:0,РЫБОЛОВ
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/351/index.m3u8
+#EXTINF:0,УСАДЬБА
+#EXTGRP:Познавательные
+http://158.160.149.81:8080/145/index.m3u8
 #EXTINF:0,VIASAT NATURE
 #EXTGRP:Познавательные
 http://178.217.72.66:8080/Viasat_Nature/index.m3u8
@@ -732,202 +642,71 @@ http://92.242.110.52:9835/udp/238.1.8.27:1234
 #EXTINF:0,NATIONAL GEOGRAPHIC WILD
 #EXTGRP:Познавательные
 http://195.245.99.242/NatGeoWild/playlist.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
-#EXTGRP:Познавательные
-http://195.245.99.242/National_Geographic/playlist.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC HD
 #EXTGRP:Познавательные
-http://178.217.72.66:8080/National_Geographic/index.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC HD резерв
-#EXTGRP:Познавательные
 http://188.237.47.212:6005
-#EXTINF:0,DISCOVERY
-#EXTGRP:Познавательные
-http://195.245.99.242/Discovery/playlist.m3u8
-#EXTINF:0,ID
-#EXTGRP:Познавательные
-http://195.245.99.242/ID/playlist.m3u8
-#EXTINF:0,ИСТОРИЯ
-#EXTGRP:Познавательные
-http://195.245.99.242/Istoriya/playlist.m3u8
 #EXTINF:0,НАУКА 2.0
 #EXTGRP:Познавательные
 http://178.134.1.158:8081/nauka/index.m3u8
-#EXTINF:0,НОСТАЛЬГИЯ
-#EXTGRP:Познавательные
-http://s1.merlive.am/Nostalgia/index.m3u8
-#EXTINF:0,СОВЕРШЕННО СЕКРЕТНО
-#EXTGRP:Познавательные
-http://178.124.152.238:8088/sovsec
-#EXTINF:0,ДОМАШНИЕ ЖИВОТНЫЕ
-#EXTGRP:Познавательные
-http://178.124.152.238:8088/sovsec
 #EXTINF:0,RTG HD
 #EXTGRP:Познавательные
 http://194.143.148.28:8080/RTG_HD/index.m3u8
-#EXTINF:0,АВТО 24
-#EXTGRP:Познавательные
-http://178.124.152.238:8088/auto24
-#EXTINF:0,ЗАГОРОДНАЯ ЖИЗНЬ
-#EXTGRP:Познавательные
-http://185.57.68.33/40/mpegts
-#EXTINF:0,ПРИКЛЮЧЕНИЯ HD
-#EXTGRP:Познавательные
-http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:0,НЕИЗВЕСТНАЯ РОССИЯ HD
-#EXTGRP:Познавательные
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:0,TRAVEL
-#EXTGRP:Познавательные
-http://178.217.72.66:8080/Travel_Channel/video.m3u8
-#EXTINF:0,ДРАЙВ ТВ
-#EXTGRP:Познавательные
-http://5.3.176.223:81/udp/235.10.10.76:1234
-#EXTINF:0,ВКУС ТВ
-#EXTGRP:Познавательные
-http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
-#EXTINF:0,НАНО ТВ
-#EXTGRP:Познавательные
-http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
-#EXTINF:0,ОХОТНИК И РЫБОЛОВ
-#EXTGRP:Познавательные
-http://158.160.149.81:8080/689/index.m3u8
-#EXTINF:0,ОХОТНИК И РЫБОЛОВ ИНТ
-#EXTGRP:Познавательные
-http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/6EgoYJm3BGMQbg69DkPFqA/1750162489/1da5d92af8c55b16241f1eb12a27f00c/1080p_stream.m3u8
-#EXTINF:0,РЫБОЛОВ
-#EXTGRP:Познавательные
-http://158.160.149.81:8080/351/index.m3u8
-#EXTINF:0,УСАДЬБА
-#EXTGRP:Познавательные
-http://158.160.149.81:8080/145/index.m3u8
 
 
-#EXTINF:0,EUROSPORT 1
+#EXTINF:0,EUROSPORT 2 [RU]
 #EXTGRP:Спортивные
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:0,EUROSPORT 2
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+#EXTINF:0,МАТЧ ТВ [RU]
 #EXTGRP:Спортивные
-http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
-#EXTINF:0,МАТЧ ТВ
+http://catchup.videoline.ru/match/playlist.m3u8
+#EXTINF:0,МАТЧ ТВ [резерв]
 #EXTGRP:Спортивные
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/quM5oDDkfcC796PO7u35YQ/1751921141/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
-#EXTINF:0,МАТЧ АРЕНА
+http://tv.ttk.mx:9002
+#EXTINF:0,МАТЧ СТРАНА [RU]
 #EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:0,МАТЧ ФУТБОЛ 1
+#EXTGRP:Спортивные
+http://tv.ttk.mx:9108
+#EXTINF:0,МАТЧ ФУТБОЛ 3 HD
+#EXTGRP:Спортивные
+http://tv.ttk.mx:9116
+#EXTINF:0,Sky Sports Premier League
+#EXTGRP:Спортивные
+https://7pal.short.gy/ssportspl
+#EXTINF:0,BAHRAIN SPORT 1 [BH]
+#EXTGRP:Спортивные
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0,BAHRAIN SPORT 2 [BH]
+#EXTGRP:Спортивные
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:0,DUBAI SPORT 1 [AE]
+#EXTGRP:Спортивные
+http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:0,DUBAI SPORT 2 [AE]
+#EXTGRP:Спортивные
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:0,DUBAI SPORT 3 [AE]
+#EXTGRP:Спортивные
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 #EXTINF:0,МАТЧ БОЕЦ
 #EXTGRP:Спортивные
 http://87.120.142.11:18000/Match!
-#EXTINF:0,МАТЧ ИГРА HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
-#EXTINF:0,МАТЧ ФУТБОЛ 1 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
-#EXTINF:0,МАТЧ ФУТБОЛ 2 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
-#EXTINF:0,МАТЧ ФУТБОЛ 3 HD
-#EXTGRP:Спортивные
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:0,МАТЧ ФУТБОЛ 1
-#EXTGRP:Спортивные
-http://s1.merlive.am/matchfutbol1/index.m3u8
-#EXTINF:0,МАТЧ ФУТБОЛ 2
-#EXTGRP:Спортивные
-http://92.242.110.52:9835/udp/238.1.1.15:1234
-#EXTINF:0,МАТЧ ФУТБОЛ 3
-#EXTGRP:Спортивные
-http://timeshift.arpinet.am/110/mpegts
-#EXTINF:0,Billiard TV
-#EXTGRP:Спортивные
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
-#EXTINF:0,VIJU+ SPORT
-#EXTGRP:Спортивные
-http://178.134.1.158:8081/viasatsport/index.m3u8
-#EXTINF:0,БОКС ТВ
-#EXTGRP:Спортивные
-http://5.3.176.223:81/udp/235.10.10.233:1234
 #EXTINF:0,MMA TV
 #EXTGRP:Спортивные
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:0,РУССКИЙ ЭКСТРИМ
 #EXTGRP:Спортивные
 http://195.26.83.96:7029/play/a008
-#EXTINF:0,ABU DHABI SPORTS 1 HD [AE]
-#EXTGRP:Спортивные
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:0,TRT SPOR [TR]
-#EXTGRP:Спортивные
-http://185.234.111.229:8000/play/a00e
-#EXTINF:0,HT SPOR [TR] 
-#EXTGRP:Спортивные
-http://185.234.111.229:8000/play/a016
-#EXTINF:0,SPORT ITALIA [ITA]
-#EXTGRP:Спортивные
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:0,SPORT ITALIA LIVE [ITA]
-#EXTGRP:Спортивные
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:0,INTER TV [ITA]
-#EXTGRP:Спортивные
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:0,NBA HD [USA]
-#EXTGRP:Спортивные
-https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
-#EXTINF:0,SKY SPORT FOOTBALL [UK] [USA]
-#EXTGRP:Спортивные
-https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
-#EXTINF:0,SKY TENNIS [UK] [USA]
-#EXTGRP:Спортивные
-https://32tech0steam0dp01.org/live/UK_SkySportsTennisFHD/chunks.m3u8
-#EXTINF:0,PREMIER SPORT 1 [UK] 
+#EXTINF:0,PREMIER SPORT 1 [UK]
 #EXTGRP:Спортивные
 https://7pal.short.gy/prsport1
-#EXTINF:0,PREMIER SPORT 2 [UK] 
+#EXTINF:0,PREMIER SPORT 2 [UK]
 #EXTGRP:Спортивные
 https://7pal.short.gy/prsport2
-#EXTINF:0,Max Sport 1 [bg] 
+#EXTINF:0,Max Sport 1 [bg]
 #EXTGRP:Спортивные
 http://213.169.39.30:5138
-#EXTINF:0,Max Sport 2 [bg] 
-#EXTGRP:Спортивные
-http://213.91.178.133:8000/play/a0at
-#EXTINF:0,Max Sport 3 [bg] 
-#EXTGRP:Спортивные
-http://213.91.178.133:8000/play/a0ar
-#EXTINF:0,ARENA SPORT [SK] 
-#EXTGRP:Спортивные
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:0,SPORT [SK] 
-#EXTGRP:Спортивные
-http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:0,BAHRAIN SPORT 1 [BH] 
-#EXTGRP:Спортивные
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:0,BAHRAIN SPORT 2 [BH] 
-#EXTGRP:Спортивные
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:0,CT SPORT [CZ] 
-#EXTGRP:Спортивные
-http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:0,DUBAI SPORT 1 [AE] 
-#EXTGRP:Спортивные
-http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:0,DUBAI SPORT 2 [AE] 
-#EXTGRP:Спортивные
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:0,DUBAI SPORT 3 [AE] 
-#EXTGRP:Спортивные
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:0,ESPN [US] 
-#EXTGRP:Спортивные
-http://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/ry9U2zUTMOkpZ44Zu_j_oQ/1752075837/eac1e371fbb6ab680d0176d472c04089/720p_stream.m3u8
-#EXTINF:0,FOOTBOL [UZ] 
-#EXTGRP:Спортивные
-https://vod.splay.uz/live_splay/original/FutbolTV/mono.ts.m3u8
-
-
 
 
 #EXTINF:0,AKIT TV
@@ -941,25 +720,22 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/chunks.m3u8
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 #EXTINF:0,ANADOLUM TV
 #EXTGRP:Turk
-https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/playlist.m3u8
+https://cdn4.yayin.com.tr/anadolum/index.m3u8
 #EXTINF:0,ASTV
 #EXTGRP:Turk
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Turk
 http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:0,ATV AVROPA
-#EXTGRP:Turk
-http://185.234.111.229:8000/play/a018
 #EXTINF:0,A SPOR
 #EXTGRP:Turk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:0,BLOOMBERG HT
 #EXTGRP:Turk
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTGRP:Turk
-http://185.234.111.229:8000/play/a05h
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:0,BIR TV
 #EXTGRP:Turk
 https://clvd26.socialsmart.tv/birtv/bant1/chunks.m3u8
@@ -974,34 +750,28 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0,CINE5 TV
 #EXTGRP:Turk
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 #EXTINF:0,CNN TURK
 #EXTGRP:Turk
-https://b.fulltvizle.com/cnn/playlist.m3u8
+https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:0,DIYANET TV
 #EXTGRP:Turk
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8?md5=Qnli7K32cpnVmnu3hqWZXg&expires=1750068533&DVR
 #EXTINF:0,DMAX
 #EXTGRP:Turk
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://www.youtube.com/watch?v=7EcFYsdlQoE
 #EXTINF:0,DOST TV
 #EXTGRP:Turk
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0,DREAM TURK
 #EXTGRP:Turk
-http://185.234.111.229:8000/play/a01v
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:0,EUROSTAR
 #EXTGRP:Turk
-http://185.234.111.229:8000/play/a01h
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
 #EXTINF:0,EURO D
 #EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0,EDESSA TV
-#EXTGRP:Turk
-https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/playlist.m3u8
-#EXTINF:0,EGE HABER TV
-#EXTGRP:Turk
-https://yayin1.canlitv.fun/canlitv/egelivetv.stream/playlist.m3u8?hash=977f130e4d86acf334dbc5e90face633
 #EXTINF:0,EKOL TV
 #EXTGRP:Turk
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
@@ -1017,9 +787,6 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:0,FASHION ONE
 #EXTGRP:Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:0,GONCA TV
-#EXTGRP:Turk
-https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
 #EXTINF:0,GRAND CINEMA
 #EXTGRP:Turk
 https://gcinemahls.wns.live/hls/stream.m3u8
@@ -1034,7 +801,7 @@ https://yayin1.canlitv.fun/live/gozdetv.stream/playlist.m3u8
 https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 #EXTINF:0,HABERTURK
 #EXTGRP:Turk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+https://www.youtube.com/watch?v=RNVNlJSUFoE
 #EXTINF:0,HABER GLOBAL
 #EXTGRP:Turk
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
@@ -1073,9 +840,6 @@ https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:0,KANAL D
 #EXTGRP:Turk
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:0,KANAL D
-#EXTGRP:Turk
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0,KANAL FIRAT
 #EXTGRP:Turk
@@ -1095,15 +859,12 @@ https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:0,KOCAELI
 #EXTGRP:Turk
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
-#EXTINF:0,KON TV
-#EXTGRP:Turk
-https://yayin1.canlitv.fun/canlitv/kontv.stream/playlist.m3u8?hash=977f130e4d86acf334dbc5e90face633
 #EXTINF:0,KUDUS TV
 #EXTGRP:Turk
 https://yayin30.haber100.com/live/kudustv/playlist.m3u8
 #EXTINF:0,KRAL POP
 #EXTGRP:Turk
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+https://www.youtube.com/watch?v=GuFTuKoXepw
 #EXTINF:0,LINE TV
 #EXTGRP:Turk
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
@@ -1130,7 +891,7 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 #EXTINF:0,NTV
 #EXTGRP:Turk
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+https://www.youtube.com/watch?v=pqq5c6k70kk
 #EXTINF:0,NUMBER ONE
 #EXTGRP:Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
@@ -1187,19 +948,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
 #EXTINF:0,SHOW
 #EXTGRP:Turk
-https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0,SHOW
-#EXTGRP:Turk
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://www.youtube.com/watch?v=ouuCjEjyKVI
 #EXTINF:0,SHOW MAX
 #EXTGRP:Turk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:0,SHOW TÜRK
 #EXTGRP:Turk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
-#EXTINF:0,SPACE TOON TURKIYE
-#EXTGRP:Turk
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0,SPORTS TV
 #EXTGRP:Turk
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -1211,31 +966,28 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:0,SÖZCÜ TV
 #EXTGRP:Turk
-http://185.234.111.229:8000/play/a00y
-#EXTINF:0,TARIM TV
-#EXTGRP:Turk
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
+https://www.youtube.com/watch?v=ztmY_cCtUl0
 #EXTINF:0,TEMPO TV
 #EXTGRP:Turk
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:0,TEVE 2
 #EXTGRP:Turk
-https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=7huyc8wgc5fd&app=
+https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8?&sid=81s462hdc6qq&app=
+#EXTINF:0,TEVE 2 HD
+#EXTGRP:Turk
+https://www.youtube.com/watch?v=A32ePdlFt7U
 #EXTINF:0,TGRT HABER
 #EXTGRP:Turk
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:0,TİVİ 6
 #EXTGRP:Turk
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:0,TLC
-#EXTGRP:Turk
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #EXTINF:0,TMB
 #EXTGRP:Turk
 https://str.yodacdn.net/tmb_tr_app/index.m3u8?token=tmb_app_token_13579
 #EXTINF:0,TRAKYA TURK
 #EXTGRP:Turk
-https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+https://raqs.ai/trakyaturk/index.m3u8
 #EXTINF:0,TRT 1
 #EXTGRP:Turk
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -1296,9 +1048,6 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:0,TV NET
 #EXTGRP:Turk
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0,TV KAYSERI
-#EXTGRP:Turk
-https://usher.ttvnw.net/api/channel/hls/tvkayseri.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiYTczNzVjNjItM2JmZC00ZGQ0LThmMzUtNTYwYjc1MjcyZDNjIn0%3D&allow_source=true&browser_family=opera&browser_version=119.0&cdm=wv&fast_bread=true&include_unavailable=true&os_name=Windows&os_version=NT%2010.0&p=3743736&parent_domains=twitchplayer&platform=web&play_session_id=4b0b9a2b1abf73fac0a1e2e8fa1f6fdd&player_backend=mediaplayer&player_version=1.42.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=29ae5a5d737baaa7549436e9553d6cdcd1cf8ebf&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvkayseri%22%2C%22channel_id%22%3A186524932%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%226512e61ced48bc42%22%2C%22expires%22%3A1750005687%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2282.194.23.241%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
 #EXTINF:0,TYT TV
 #EXTGRP:Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
@@ -1314,9 +1063,6 @@ https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=977f130e4d8
 #EXTINF:0,CAY TV
 #EXTGRP:Turk
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:0,360
-#EXTGRP:Turk
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,WOMAN KADIN TV
 #EXTGRP:Turk
 https://embedlp.b-cdn.net/womantv.m3u8
@@ -1331,37 +1077,30 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_48
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
 #EXTINF:0,CARTOON NETWORK TR
 #EXTGRP:Turk
-https://tv.arectv31.sbs/live/cartoonnetwork.m3u8
+https://www.youtube.com/watch?v=5Whk9MVTpI4
 
 
-
-#EXTINF:0,NICKELODION
+#EXTINF:0,ANI
 #EXTGRP:Детские
-http://178.134.1.158:8081/nickelodeon/index.m3u8
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:0,МАМА
+#EXTGRP:Детские
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:0,NICK JR.
 #EXTGRP:Детские
 http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8
-#EXTINF:0,GULLI GIRL
-#EXTGRP:Детские
-http://92.242.110.52:9835/udp/238.1.9.6:1234
-#EXTINF:0,0!
-#EXTGRP:Детские
-
-#EXTINF:0,РАДОСТЬ МОЯ
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:0,МАМА
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
-#EXTINF:0,ANI
-#EXTGRP:Детские
-http://178.217.72.66:8080/Ani/index.m3u8
 #EXTINF:0,O!
 #EXTGRP:Детские
 http://178.124.193.53:8181/play/1139/index.m3u8
-#EXTINF:0,МУЛЬТ
+#EXTINF:0,NICKELODION
 #EXTGRP:Детские
-http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
+http://178.134.1.158:8081/nickelodeon/index.m3u8
+#EXTINF:0,GULLI GIRL
+#EXTGRP:Детские
+http://92.242.110.52:9835/udp/238.1.9.6:1234
+#EXTINF:0,РАДОСТЬ МОЯ
+#EXTGRP:Детские
+http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:0,МУЛЬТ И МУЗЫКА
 #EXTGRP:Детские
 http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
@@ -1376,7 +1115,8 @@ http://195.26.83.96:7007/play/14/index.m3u8
 http://178.217.72.66:8080/Karusel/index.m3u8
 #EXTINF:0,РЫЖИЙ
 #EXTGRP:Детские
-http://158.160.149.81:8080/1548/index.m3u8#EXTINF:0,СТС КИДС
+http://158.160.149.81:8080/1548/index.m3u8
+#EXTINF:0,СТС КИДС
 #EXTGRP:Детские
 http://s1.merlive.am/STSkids/index.m3u8
 #EXTINF:0,СОЛНЦЕ
@@ -1384,7 +1124,7 @@ http://s1.merlive.am/STSkids/index.m3u8
 http://s1.merlive.am/solnce/index.m3u8
 #EXTINF:0,УНИКУМ
 #EXTGRP:Детские
-http://5.3.176.223:81/udp/235.10.10.52:1234
+http://95.156.76.230:33001/udp/230.4.34.104:1234
 #EXTINF:0,МУЛЬТИЛАНДИЯ
 #EXTGRP:Детские
 http://s1.merlive.am/multilandia/index.m3u8
@@ -1400,780 +1140,22 @@ http://31.130.19.207:4022/udp/239.1.12.25:1234
 #EXTINF:0,TIJI
 #EXTGRP:Детские
 http://195.245.99.242/Tiji/playlist.m3u8
-#EXTINF:0,УНИКУМ
-#EXTGRP:Детские
-http://95.156.76.230:33001/udp/230.4.34.104:1234
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
-#EXTGRP:Arab
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCK1L31/DubaiTV.png",DUBAI TV
-#EXTGRP:Arab
-https://dmieigthvllta.cdn.mangomolo.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
-#EXTGRP:Arab
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ngKnxmq/dubaione.png",DUBAI ONE
-#EXTGRP:Arab
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jMsSmvg/dubainoor.png",DUBAI NOOR
-#EXTGRP:Arab
-https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4LTFCS/dubaisama.png",DUBAI SAMA
-#EXTGRP:Arab
-https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xDs4dGV/dubaizaman.png",DUBAI ZAMAN
-#EXTGRP:Arab
-https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
-#EXTGRP:Arab
-https://dmidspta.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 1
-#EXTGRP:Arab
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 2
-#EXTGRP:Arab
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 2
-#EXTGRP:Arab
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 3
-#EXTGRP:Arab
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/playlist.m3u?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LR2KqPJ/dbaispt.png",DUBAI SPORTS 3
-#EXTGRP:Arab
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 1
-#EXTGRP:Arab
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 2
-#EXTGRP:Arab
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 3
-#EXTGRP:Arab
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 1
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 2
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 3
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 4
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 5
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR 6
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3h4XCtZ/kasqatar.png",KAS QATAR SHOOF
-#EXTGRP:Arab
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WcQV072/saudi1sbc.png",SAUDI SBC SA
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qNXgWyZ/sauditv.jpg",SAUDIA TV CH 1
-#EXTGRP:Arab
-https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qNXgWyZ/sauditv.jpg",SAUDIA TV CH 1
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c6QBhj8/actionwalid.png",SAUDI ACTION WALEED
-#EXTGRP:Arab
-https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN 1
-#EXTGRP:Arab
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN MUNASHER
-#EXTGRP:Arab
-https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN CULTURE
-#EXTGRP:Arab
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN SPORT
-#EXTGRP:Arab
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png",OMAN TV
-#EXTGRP:Arab
-https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TV
-#EXTGRP:Arab
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN TOURISM
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN DRAMA
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN COMEDY
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN KITCHEN
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN ARCHIVE
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4xS49d/jordan-tv.png",JORDAN SONG
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV 1
-#EXTGRP:Arab
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV 2
-#EXTGRP:Arab
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV NEWS
-#EXTGRP:Arab
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV ARAB
-#EXTGRP:Arab
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV ETHRAA
-#EXTGRP:Arab
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV KHALLIK
-#EXTGRP:Arab
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV KHALLIK
-#EXTGRP:Arab
-https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV QURAIN
-#EXTGRP:Arab
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV SPORTS
-#EXTGRP:Arab
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV SPORT PLUS
-#EXTGRP:Arab
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMLDMdy/kwttv.png",KUWAIT TV 1
-#EXTGRP:Arab
-https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA
-#EXTGRP:Arab
-http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLYWYh7/Al-Jazeera.png",AL JAZEERA
-#EXTGRP:Arab
-https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA
-#EXTGRP:Arab
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA
-#EXTGRP:Arab
-https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ALARABY
-#EXTGRP:Arab
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",AL ALARABY
-#EXTGRP:Arab
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
-#EXTGRP:Arab
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
-#EXTGRP:Arab
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png",AL ARABIYA HADATH
-#EXTGRP:Arab
-https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIYA BUSINESS
-#EXTGRP:Arab
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg",AL ARABIYA BUSINESS
-#EXTGRP:Arab
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png",AL ARABIYA PROGRAMS
-#EXTGRP:Arab
-https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
-#EXTGRP:Arab
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER
-#EXTGRP:Arab
-https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER 2
-#EXTGRP:Arab
-https://newajm2.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER 2
-#EXTGRP:Arab
-https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbFBq5k/Al-Jazeera-Mubasher.png",AL JAZEERA MUBASHER 24
-#EXTGRP:Arab
-https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CMk8DS1/alqahera.png",AL QAHERA NEWS
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ NEWS
-#EXTGRP:Arab
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA NEWS
-#EXTGRP:Arab
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/extr/py/royanews.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m4tvbmp/inewsar.png",INEWS IQ
-#EXTGRP:Arab
-https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png",BBC NEWS ARABIA
-#EXTGRP:Arab
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dGjByMq/Sky-News-Arabia.png",SKY NEWS ARABIA
-#EXTGRP:Arab
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dGjByMq/Sky-News-Arabia.png",SKY NEWS ARABIA
-#EXTGRP:Arab
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg",CNBC ARABIA
-#EXTGRP:Arab
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png",DW ARABIC
-#EXTGRP:Arab
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS AR
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png",FRANCE 24 AR
-#EXTGRP:Arab
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png",TRT ARABIYA
-#EXTGRP:Arab
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC
-#EXTGRP:Arab
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT ARABIC
-#EXTGRP:Arab
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS
-#EXTGRP:Arab
-https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzjbYfR/asharq.png",ASHARQ DOCS 2
-#EXTGRP:Arab
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fs6CgPG/Al-Hiwar.png",AL HIWAR
-#EXTGRP:Arab
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png",AL SHARQIYA
-#EXTGRP:Arab
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNLHyhs/Al-Sharqiya-News.png",AL SHARQIYA
-#EXTGRP:Arab
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMzmrDFJ/Aliraqianews.jpg",AL IRAQIA NEWS
-#EXTGRP:Arab
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tsWQ5pz/panorama.jpg",PANORAMA FM TV
-#EXTGRP:Arab
-https://panoramafm-prod-dub-ak.akamaized.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H4shFvm/elsharq.png",EL SHARQ
-#EXTGRP:Arab
-https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KX5tK6Q/Wanasa.png",WANASAH
-#EXTGRP:Arab
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png",MAJID
-#EXTGRP:Arab
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DbFpsdR/majid.png",MAJID
-#EXTGRP:Arab
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFvZPd9/spacetoon.png",SPACE TOON
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYMKBP2/Sat7kids.png",SAT7 KIDS
-#EXTGRP:Arab
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HVLKncL/afarin.png",AFARIN TV
-#EXTGRP:Arab
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k8Xbs2n/alshallal.jpg",AL SHALLAL
-#EXTGRP:Arab
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjSRycnm/alhayat.png",AL HAYAT
-#EXTGRP:Arab
-https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA 1
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA 2
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png",IQRAA 3
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GnfgKbs/alquran.png",QURAN
-#EXTGRP:Arab
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cygNtwH/bahrain-quaran.png",BAHRAIN QURAN
-#EXTGRP:Arab
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qdGPCh/Sharjahtvquran.png",SHARJAH QURAN
-#EXTGRP:Arab
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png",AL EKHBARIA
-#EXTGRP:Arab
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkVK043/ekbariya.png",AL EKHBARIA
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MctgDQ8/sunnah.png",AL SUNNAH TV
-#EXTGRP:Arab
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mgm51w6/sat7ara.webp",SAT7 ARABIC
-#EXTGRP:Arab
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0pWD9ZX/charity.png",CHARITY TV
-#EXTGRP:Arab
-https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT
-#EXTGRP:Arab
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT AL SHARQ
-#EXTGRP:Arab
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT AL KODDASS
-#EXTGRP:Arab
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT EL SHABEB
-#EXTGRP:Arab
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT MARIAM
-#EXTGRP:Arab
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgg3JpC/noursat.png",NOURSAT ENG
-#EXTGRP:Arab
-https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1
-#EXTGRP:Arab
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1
-#EXTGRP:Arab
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N19JFwZ/mbc.png",MBC 1 USA
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
-#EXTGRP:Arab
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3
-#EXTGRP:Arab
-https://mbc3-usa-enc.edgenextcdn.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bvbsV1Z/mbc3.png",MBC 3 USA
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5smk763/mbc4.png",MBC 4
-#EXTGRP:Arab
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vzbhKTj/mbc5.png",MBC 5
-#EXTGRP:Arab
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA
-#EXTGRP:Arab
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA USA
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ndSCfQ/mbcdrama0.png",MBC DRAMA MASR
-#EXTGRP:Arab
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png",MBC DRAMA PLUS
-#EXTGRP:Arab
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xzdqq9y/mbcdrama.png",MBC DRAMA PLUS
-#EXTGRP:Arab
-https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
-#EXTGRP:Arab
-https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR 1
-#EXTGRP:Arab
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnhWg65/mbcmasr.png",MBC MASR USA
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg",MBC MASR 2
-#EXTGRP:Arab
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg",MBC MASR 2
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7B22HL/mbcmasr2.jpg",MBC MASR 2
-#EXTGRP:Arab
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkr6JSX/mbc-iraq.png",MBC IRAQ
-#EXTGRP:Arab
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5gGgfJ/mbcbollywood.png",MBC BOLLYWOOD
-#EXTGRP:Arab
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC AFLAM
-#EXTGRP:Arab
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES
-#EXTGRP:Arab
-https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES ACTION
-#EXTGRP:Arab
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mc475nQ/shadidblck.jpg",MBC MOVIES THRILLER
-#EXTGRP:Arab
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png",MBC RABEH SAQER
-#EXTGRP:Arab
-https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/98TBSSm/mbcfmtv.png",MBC FM LIVE TV
-#EXTGRP:Arab
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hy2GLK8/mbcloud.png",MBC LOUD FM TV
-#EXTGRP:Arab
-https://d2lfa0y84k5bwn.cloudfront.net/out/v1/86dd4506a70c4d7fb35e2ab50296d9a3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQV1zQG/cbclive.jpg",CBC LIVE EGY
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jpsxm7/cbcsofra.png",CBC SOFRA
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/21JHLXpk/cbcdrama.jpg",CBC DRAMA
-#EXTGRP:Arab
-https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2msLHmY/dmcdrama.png",DMC DRAMA
-#EXTGRP:Arab
-https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w9W05Dk/ondrama.png",ON DRAMA
-#EXTGRP:Arab
-https://fl1002.bozztv.com/ga-ondrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcwxz7NQ/dmceg.png",DMC EGY
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA CINEMA KSA
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W5nWYV/rotanacinema.png",ROTANA AFLAM PLUS
-#EXTGRP:Arab
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png",ROTANA M PLUS
-#EXTGRP:Arab
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N2C6FMyv/Mplus.png",ROTANA M PLUS
-#EXTGRP:Arab
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_MPLUS/playlist.m3u8?token=demo
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HNm4jw9/rotanaclip.png",ROTANA MUSIC
-#EXTGRP:Arab
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_MUSIC/playlist.m3u8?&token=demo
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6DcdjwT/rotanaclassic.png" referer="https://rotana.net/",ROTANA CLASSIC
-#EXTGRP:Arab
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PN8G6F8/rotanakids.png",ROTANA KIDS
-#EXTGRP:Arab
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/playlist.m3u8?&token=demo
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwZKHJj/rcomedy.jpg" referer="https://rotana.net/",ROTANA COMEDY
-#EXTGRP:Arab
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/207NnrF1/pncdr.png",ROTANA PNC DRAMA
-#EXTGRP:Arab
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
-#EXTGRP:Arab
-https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA MUSIC
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA KITCHEN
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA COMEDY
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA PALESTINE
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA KIDS
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA KIDS ORIGINALS
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA DRAMA
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA SPORTS
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA WORLD
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA ADVENTURES
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA MARAYA
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA CARAVAN
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA IMAM
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA PRODUCTION
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA AL HAYBA
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA ACTION
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA AH SHAMYEH
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA AL QUEBBEH
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA NADINENJAIM
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA AYMAN ZAYDAN
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA AL ZAEEM
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA HAKI MONAWWA
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haki-monawwa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA ANA BAHKILAK
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ana-bahkilak-elgessa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA MASRAHYYAT
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA DOCU
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA MOJTAMAII
-#EXTGRP:Arab
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s107QNv/araby2.png",AL ALARABY 2
-#EXTGRP:Arab
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HVLDcrR/abudhabi.png",ABU DHABI
-#EXTGRP:Arab 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yV6Jhjg/alemarat.png",AL EMARAT
-#EXTGRP:Arab
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 1
-#EXTGRP:Arab 
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L61bf70/adspts.png",ABU DHABI SPORTS 2
-#EXTGRP:Arab 
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q6tZWdh/yas.png",YAS TV
-#EXTGRP:Arab
-https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdpWZ7h/baynounah.png",BAYNOUNAH TV
-#EXTGRP:Arab
-https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b2KHBPn/halalnd.png",HALA LONDON
-#EXTGRP:Arab
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCBL5fNk/lybiawat.jpg",LIBYA WATANYA
-#EXTGRP:Arab 
-https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qJ7qVTF/Al-Mamlaka.png",AL MAMLKA
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b6ZvV2r/fujairah.png",FUJAIRAH TV
-#EXTGRP:Arab
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV
-#EXTGRP:Arab 
-https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mfSV6R6/almasar.jpg",AL MASAR
-#EXTGRP:Arab
-https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DtWPcjN/alw.png",ALAWLA TV
-#EXTGRP:Arab 
-https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtKQ15z/alw1.png",ALAWLA TV
-#EXTGRP:Arab 
-https://63b03f7689049.streamlock.net/live/_definst_/1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnQnFjg/sharjahtv.png",SHARJAH TV
-#EXTGRP:Arab 
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7KSJQYX/sharjah2.png",SHARJAH TV 2
-#EXTGRP:Arab 
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bpYYZ2/shrspt.png",SHARJAH TV SPORTS
-#EXTGRP:Arab 
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8ftqHr/qattv.png",QATAR TV
-#EXTGRP:Arab 
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4qNK42/qattv2.png",QATAR TV 2
-#EXTGRP:Arab 
-https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d58T05P/Syria-tv.jpg",SYRIA TV
-#EXTGRP:Arab 
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0kQdg9X/syria2.png",SYRIA TV 2
-#EXTGRP:Arab
-https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XrC6F6JW/salam.png",SALAM
-#EXTGRP:Arab
-https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp728rg/rayan.png",AL RAYYAN
-#EXTGRP:Arab
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dp728rg/rayan.png",AL RAYYAN
-#EXTGRP:Arab
-https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png",AL RAYYAN QADEEM
-#EXTGRP:Arab 
-https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n333gP9/rayanqdm.png",AL RAYYAN QADEEM
-#EXTGRP:Arab 
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKY6Tn/almanar.png",AL MANAR
-#EXTGRP:Arab 
-https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mN2JhVS/alghad.png",AL GHAD TV
-#EXTGRP:Arab 
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGHHGbj/alkhalij.jpg",AL KHALIJ TV
-#EXTGRP:Arab 
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MG43H4H/hala.png",PANET 30 HALA
-#EXTGRP:Arab
-https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fqTYrGY/33.png",KAN 33 MAKAN
-#EXTGRP:Arab 
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SYvz5YT/masriya.jpg",AL MASRIYA TV
-#EXTGRP:Arab 
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/masriya.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMm9t2ZK/niletv.png",NILE TV
-#EXTGRP:Arab 
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/niletv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMyBBdb/kab.png",KAB 1
-#EXTGRP:Arab 
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fFZ3kZj/alwousta.png",AL WOUSTA
-#EXTGRP:Arab 
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TZPHf6/atfal.jpg",ATFAL
-#EXTGRP:Arab 
-https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/svNjxMqW/dabanga.png",DABANGA
-#EXTGRP:Arab 
-https://hls.dabangasudan.org/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C2c1NJN/alraimedia.png",ALRAIMEDIA
-#EXTGRP:Arab 
-https://new.cache-stream.workers.dev/stream/UCTny7s_VPsTS_TtnWIlJF6w/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0mtj39x/Mekameleen.png",MEKAMELEEN
-#EXTGRP:Arab
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
-#EXTGRP:Arab 
-https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDhcymF/ifilm.png",IFILM AR
-#EXTGRP:Arab 
-https://ncdn.telewebion.com/ifilmar/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZ1q6zP9/ontve.png",ON E
-#EXTGRP:Arab 
-https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mVPZh6Gz/Aliraqia.jpg",AL IRAQIA
-#EXTGRP:Arab 
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99cj3D4g/Masirah.jpg",AL MASIRAH
-#EXTGRP:Arab 
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png",BAHRAIN TV
-#EXTGRP:Arab 
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HCZGRZk/bahraintv.png",BAHRAIN TV INT
-#EXTGRP:Arab 
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M9MzqDm/bedaya.png",BEDAYA TV
-#EXTGRP:Arab 
-https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png",YEMEN MAHRIAH
-#EXTGRP:Arab 
-https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcJQnz4Y/thaqafeyyah.jpg",THAQAFEYYAH
-#EXTGRP:Arab
-https://thaqafeyyah-enc.edgenextcdn.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PYwbLwJ/haqiqat.jpg",AL HAQIQA
-#EXTGRP:Arab 
-https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkwk0zB/almashd.png",AL MASHHAD
-#EXTGRP:Arab
-https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2KwY06R/alyaum.png",AL YAUM
-#EXTGRP:Arab 
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nPBCcKq/payam.jpg",PAYAM TV
-#EXTGRP:Arab
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f2XWR2M/alrabiaa.jpg" referer="https://player.castr.com/",AL RABIAA
-#EXTGRP:Arab
-https://stream.castr.com/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FYdQXH1/aldafrah.png",AL DAFRAH
-#EXTGRP:Arab
-https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJcnzXw/rajeen.png",RAJEEN
-#EXTGRP:Arab
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS72QHZ/pbcpalestine.png",PAL PBC
-#EXTGRP:Arab
-https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS72QHZ/pbcpalestine.png",PAL PBC
-#EXTGRP:Arab
-https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMFyykR/paltv.png",PAL TV
-#EXTGRP:Arab
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nkfS0P4/palsat.jpg",WATAR PS
-#EXTGRP:Arab 
-http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RNHM3Xx/falastini.png",PALESTINIAN TV
-#EXTGRP:Arab
-https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/230j3Kr/yemenshabab.png",YEMEN SHABAB
-#EXTGRP:Arab 
-https://starmenajo.com/hls/yemenshabab/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wK6B1QV/utv.png",UTV IRAQI
-#EXTGRP:Arab
-https://mn-nl.mncdn.com/utviraqi2/64c80359/chunklist.m3u8
-
-
-
 #EXTINF:0,НТВ БЕЛАРУСЬ HD
 #EXTGRP:Беларусь
 http://87.252.254.168:4022/udp/233.81.116.205:1234
-#EXTINF:0,БЕЛАРУСЬ 1 
+#EXTINF:0,БЕЛАРУСЬ 1
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b1010000_sleng.m3u8
 #EXTINF:0,БЕЛАРУСЬ 1 HD
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,БЕЛАРУСЬ 2 
+#EXTINF:0,БЕЛАРУСЬ 2
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b1010000_sleng.m3u8
 #EXTINF:0,БЕЛАРУСЬ 2 HD
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:0,БЕЛАРУСЬ 3 
+#EXTINF:0,БЕЛАРУСЬ 3
 #EXTGRP:Беларусь
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b1010000_sleng.m3u8
 #EXTINF:0,БЕЛАРУСЬ 5
@@ -2191,15 +1173,6 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:0,БЕЛРОС
 #EXTGRP:Беларусь
 http://live.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-
-
-#EXTINF:0,ULTRA HD CINEMA
-#EXTGRP:4K
-http://31.130.19.207:4022/udp/239.1.12.8:1234
-#EXTINF:0,LOVE NATURE 4K
-#EXTGRP:4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
 #EXTINF:0,1+1
 #EXTGRP:УКРАИНА
 http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10163
@@ -2218,59 +1191,49 @@ http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/54742/
 #EXTINF:0,ПЕРШИЙ XTV MEDIA
 #EXTGRP:УКРАИНА
 http://hls.xtvmedia.pp.ua/hls/trk1tv.m3u8
-
-#EXTINF:-1 tvg-id="rusradio" tvg-name="РУССКОЕ РАДИО" tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО
+#EXTINF:0,РУССКОЕ РАДИО
 #EXTGRP:Russian Radio
 https://rusradio.hostingradio.ru/rusradio128.mp3
-#EXTINF:-1 tvg-id="rusradio" tvg-name="РУССКОЕ РАДИО СОНЯ" tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО СОНЯ
+#EXTINF:0,РУССКОЕ РАДИО СОНЯ
 #EXTGRP:Russian Radio
 https://rr-sonya.hostingradio.ru/sonya96.aacp
-#EXTINF:-1 tvg-id="rusradio" tvg-name="РУССКОЕ РАДИО ДЕТСКОЕ" tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО ДЕТСКОЕ
+#EXTINF:0,РУССКОЕ РАДИО ДЕТСКОЕ
 #EXTGRP:Russian Radio
 https://rr-detskijkanal.hostingradio.ru/detskijkanal96.aacp
-#EXTINF:-1 tvg-id="rusradio" tvg-name="РУССКОЕ РАДИО РОК" tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО РОК
+#EXTINF:0,РУССКОЕ РАДИО РОК
 #EXTGRP:Russian Radio
 https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp
-#EXTINF:-1 tvg-id="marusya" tvg-name="МАРУСЯ ФМ" tvg-logo="https://i.ibb.co/chn5MF7v/MARUSYAFM.png",МАРУСЯ ФМ
+#EXTINF:0,МАРУСЯ ФМ
 #EXTGRP:Russian Radio
 https://msk8.radio-holding.ru/marusya_default
-#EXTINF:-1 tvg-id="avtoradio" tvg-name="АВТОРАДИО" tvg-logo="https://i.ibb.co/207YhtYT/AVTORADIO.png",АВТОРАДИО
+#EXTINF:0,АВТОРАДИО
 #EXTGRP:Russian Radio
 http://ic7.101.ru:8000/v3_1
-#EXTINF:0 tvg-logo="https://i.ibb.co/wNSdfWgV/RUSRADIO.png",РУССКОЕ РАДИО
-#EXTGRP:Russian Radio
-https://rusradio.hostingradio.ru/rusradio128.mp3
-#EXTINF:0 tvg-logo="https://i.ibb.co/chn5MF7v/MARUSYAFM.png",МАРУСЯ ФМ
-#EXTGRP:Russian Radio
-https://msk8.radio-holding.ru/marusya_default
-#EXTINF:0 tvg-logo="https://i.ibb.co/207YhtYT/AVTORADIO.png",АВТОРАДИО
-#EXTGRP:Russian Radio
-http://ic7.101.ru:8000/v3_1
-#EXTINF:0 tvg-logo="https://i.ibb.co/CKYz7QpN/MONTECARLO.png",МОНТЕ КАРЛО
+#EXTINF:0,МОНТЕ КАРЛО
 #EXTGRP:Russian Radio
 https://montecarlo.hostingradio.ru/montecarlo128.mp3
-#EXTINF:0 tvg-logo="https://i.ibb.co/zVQ8Xd8H/DYADYA-VANYA.png",ДЯДЯ ВАНЯ
+#EXTINF:0,ДЯДЯ ВАНЯ
 #EXTGRP:Russian Radio
 https://ic1.radiosignal.one/vanya
-#EXTINF:0 tvg-logo="https://i.ibb.co/svq7spGm/RETROHIT.png",РЕТРО ХИТ
+#EXTINF:0,РЕТРО ХИТ
 #EXTGRP:Russian Radio
 https://retro.amgradio.ru/Retro
-#EXTINF:0 tvg-logo="https://i.ibb.co/chd9FWkp/RUSSKAYAVOLNA.png",РУССКАЯ ВОЛНА
+#EXTINF:0,РУССКАЯ ВОЛНА
 #EXTGRP:Russian Radio
 https://rp.amgradio.ru/RuWave48
-#EXTINF:0 tvg-logo="https://i.ibb.co/prNkdP6Y/NOVOERADIO.png",НОВОЕ РАДИО
+#EXTINF:0,НОВОЕ РАДИО
 #EXTGRP:Russian Radio
 https://stream.newradio.ru/novoe96.aacp
-#EXTINF:0 tvg-logo="https://i.ibb.co/zhrZfTxW/RADIOCAFE.png",РАДИО CAFE
+#EXTINF:0,РАДИО CAFE
 #EXTGRP:Russian Radio
 https://cafe.amgradio.ru/Cafe
-#EXTINF:0 tvg-logo="https://i.ibb.co/jPPvw0LM/DOROJNOERADIO.png",ДОРОЖНОЕ РАДИО
+#EXTINF:0,ДОРОЖНОЕ РАДИО
 #EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:0 tvg-logo="https://i.ibb.co/wZcyczsG/NASHERADIO.png",НАШЕ РАДИО
+#EXTINF:0,НАШЕ РАДИО
 #EXTGRP:Russian Radio
 http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:0 tvg-logo="https://i.ibb.co/wZcyczsG/NASHERADIO.png",НАШЕ РАДИО КЛАССИЧЕСКИЙ РОК
+#EXTINF:0,НАШЕ РАДИО КЛАССИЧЕСКИЙ РОК
 #EXTGRP:Russian Radio
 https://nashe1.hostingradio.ru/nasheclassic.mp3
 #EXTINF:0,РАДИО DFM
@@ -2287,16 +1250,13 @@ https://pub0201.101.ru/stream/air/aac/64/202
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:0,РАДИО РОМАНТИКА
 #EXTGRP:Russian Radio
-https://pub0201.101.ru/stream/air/aac/64/101
+http://ic7.101.ru:8000/v4_1
 #EXTINF:0,РАДИО МИР
 #EXTGRP:Russian Radio
 http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:0,РАДИО НА СЕМИ ХОЛМАХ
 #EXTGRP:Russian Radio
 http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:0,РАДИО РОМАНТИКА
-#EXTGRP:Russian Radio
-http://ic7.101.ru:8000/v4_1
 #EXTINF:0,РАДИО ШАНСОН
 #EXTGRP:Russian Radio
 http://chanson.hostingradio.ru:8041/chanson256.mp3
@@ -2315,52 +1275,51 @@ http://ic7.101.ru:8000/v5_1
 #EXTINF:0,РАДИО NJR
 #EXTGRP:Russian Radio
 https://pub0201.101.ru/stream/air/aac/64/99
-
-#EXTINF:0 tvg-logo="",Radyo Fenomen
+#EXTINF:0,Radyo Fenomen
 #EXTGRP:Turk Radio
 https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
-#EXTINF:0 tvg-logo="",Joy Turk
+#EXTINF:0,Joy Turk
 #EXTGRP:Turk Radio
 https://27743.live.streamtheworld.com/JOY_FMAAC.aac
-#EXTINF:0 tvg-logo="",Slow Türk
+#EXTINF:0,Slow Türk
 #EXTGRP:Turk Radio
 https://radyo.duhnet.tv/ak_dtvh_slowturk
-#EXTINF:0 tvg-logo="",Power FM
+#EXTINF:0,Power FM
 #EXTGRP:Turk Radio
 https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8
-#EXTINF:0 tvg-logo="",Metro FM
+#EXTINF:0,Metro FM
 #EXTGRP:Turk Radio
 https://28563.live.streamtheworld.com/METRO_FM128AAC.aac
-#EXTINF:0 tvg-logo="",Istambul FM
+#EXTINF:0,Istambul FM
 #EXTGRP:Turk Radio
 https://yayin.istanbulfm.com.tr/istanbulfm
-#EXTINF:0 tvg-logo="",Super FM
+#EXTINF:0,Super FM
 #EXTGRP:Turk Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM128AAC.aac
-#EXTINF:0 tvg-logo="",Kral FM
+#EXTINF:0,Kral FM
 #EXTGRP:Turk Radio
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
-#EXTINF:0 tvg-logo="",Lounge 96
+#EXTINF:0,Lounge 96
 #EXTGRP:Turk Radio
 https://edge1.radyotvonline.net/shoutcast/play/loungefm
-#EXTINF:0 tvg-logo="",Number 1 FM
+#EXTINF:0,Number 1 FM
 #EXTGRP:Turk Radio
 https://n10101m.mediatriple.net/numberone
-#EXTINF:0 tvg-logo="",Retro Turk
+#EXTINF:0,Retro Turk
 #EXTGRP:Turk Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK128AAC.aac
-#EXTINF:0 tvg-logo="",Pop 90
+#EXTINF:0,Pop 90
 #EXTGRP:Turk Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac
-#EXTINF:0 tvg-logo="",Aşk FM
+#EXTINF:0,Aşk FM
 #EXTGRP:Turk Radio
 https://stream.netradyom.com/radio/8000/radio.mp3
-#EXTINF:0 tvg-logo="",Alem FM
+#EXTINF:0,Alem FM
 #EXTGRP:Turk Radio
 https://turkmedya.radyotvonline.net/alemfmaac
-#EXTINF:0 tvg-logo="",TRT Radyo 1
+#EXTINF:0,TRT Radyo 1
 #EXTGRP:Turk Radio
 https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
-#EXTINF:0 tvg-logo="",Rock FM
+#EXTINF:0,Rock FM
 #EXTGRP:Turk Radio
 https://rockfm.rockfm.com.tr:9450/stream

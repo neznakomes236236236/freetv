@@ -549,11 +549,16 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/Aya
 https://str.yodacdn.net/tmb/index.m3u8
 #EXTINF:0,TMB AZ
 #EXTGRP:Азербайджан
-http://149.255.152.199/tmbaz.m3u8
-#EXTINF:0,MTV
+https://str.yodacdn.net/tmbaz/index.m3u8
+#EXTINF:0,MTV (MUZ TV)
 #EXTGRP:Азербайджан
-http://149.255.152.199/mtvazerbaycan.m3u8
-
+https://str.yodacdn.net/mtvaz/index.m3u8
+#EXTINF:0,VIP TV
+#EXTGRP:Азербайджан
+https://str.yodacdn.net/vip/index.m3u8
+#EXTINF:0,KANAL 35
+#EXTGRP:Азербайджан
+https://str.yodacdn.net/kanal35/index.m3u8
 
 #EXTINF:0,ПЕРВЫЙ МУЗЫКАЛЬНЫЙ RU
 #EXTGRP:Музыка
@@ -1342,6 +1347,7 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:0,Rock FM
 #EXTGRP:Turk Radio
 https://rockfm.rockfm.com.tr:9450/stream
+
 
 
 

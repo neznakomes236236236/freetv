@@ -535,6 +535,9 @@ https://str.yodacdn.net/kanal35/index.m3u8
 #EXTINF:0,VALAYET TV
 #EXTGRP:Азербайджан
 https://cdn.nl.livekadeh.com/hls2/vilayet_src.m3u8
+#EXTINF:0,KONUL TV
+#EXTGRP:Азербайджан
+https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:0,Vostok tv
 #EXTGRP:Азербайджан
 https://str.yodacdn.net/tmb/index.m3u8
@@ -1333,3 +1336,4 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:0,Rock FM
 #EXTGRP:Turk Radio
 https://rockfm.rockfm.com.tr:9450/stream
+

@@ -541,6 +541,9 @@ https://cdn.nl.livekadeh.com/hls2/vilayet_src.m3u8
 #EXTINF:0,KONUL TV
 #EXTGRP:Азербайджан
 https://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:0,AYAZ TV
+#EXTGRP:Азербайджан
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:0,Vostok tv
 #EXTGRP:Азербайджан
 https://str.yodacdn.net/tmb/index.m3u8
@@ -1339,5 +1342,6 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:0,Rock FM
 #EXTGRP:Turk Radio
 https://rockfm.rockfm.com.tr:9450/stream
+
 
 

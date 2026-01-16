@@ -505,6 +505,9 @@ https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:0,AZSTAR
 #EXTGRP:Азербайджан
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:0,AYAZ TV
+#EXTGRP:Азербайджан
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:0,DUNYA
 #EXTGRP:Азербайджан
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
@@ -1336,4 +1339,5 @@ https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:0,Rock FM
 #EXTGRP:Turk Radio
 https://rockfm.rockfm.com.tr:9450/stream
+
 
